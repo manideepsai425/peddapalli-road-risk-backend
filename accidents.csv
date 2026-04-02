@@ -1,0 +1,1105 @@
+year,mandal,accident_prone_area,latitude,longitude,road_type,vehicles,fatalities,injuries,accident_type,weather,cause
+2020,Srirampur,Srirampur X Road,18.5255,79.3142,junction,3,1,2,truck-car,collision,clear junction design issue
+2020,Srirampur,Srirampur Colony Gate,18.518,79.3055,urban road,2,0,2,bike-auto,collision,clear poor lighting
+2020,Srirampur,Rajiv Rahadari (Srirampur Stretch),18.521,79.311,highway,2,1,1,car-lorry,collision,foggy overspeeding
+2020,Srirampur,Nagepalli Curve,18.534,79.325,highway,1,0,1,bike-skid,rainy,dangerous curve
+2020,Srirampur,SCCL Shopping Complex Rd,18.5165,79.302,urban road,1,0,1,pedestrian,hit,clear lack of signage
+2020,Srirampur,Mothe Road Junction,18.541,79.3325,junction,2,0,3,auto-bike,collision,cloudy junction design issue
+2020,Srirampur,Srirampur Filter Bed Area,18.529,79.318,rural road,1,1,0,bike-skid,clear,poor road condition
+2020,Srirampur,Gauri Shankar Temple Curve,18.512,79.298,urban road,2,0,1,car-bike,collision,clear dangerous curve
+2020,Srirampur,Peddapalli-Srirampur Link,18.5505,79.345,highway,2,1,2,head-on,collision,rainy road engineering defect
+2020,Srirampur,GM Office Road,18.5195,79.3075,urban road,2,0,2,bike-bike,collision,clear poor lighting
+2020,Sultanabad,Sultanabad X Road,18.5285,79.3195,junction,2,1,2,bike-auto,collision,clear junction design issue
+2020,Sultanabad,Katnapally Gate,18.561,79.352,highway,3,1,4,truck-car,collision,foggy poor visibility
+2020,Sultanabad,Poosala Curve,18.545,79.336,highway,1,0,1,car-divider,hit,rainy dangerous curve
+2020,Sultanabad,Garrepalli Stage,18.498,79.284,junction,2,1,1,head-on,collision,clear lack of signage
+2020,Sultanabad,Neerukulla Bridge,18.572,79.365,highway,2,1,3,car-lorry,collision,clear overspeeding
+2020,Sultanabad,Sultanabad Market Area,18.526,79.317,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2020,Sultanabad,Srirampur Link Road,18.521,79.311,highway,2,0,2,bike-auto,collision,clear road engineering defect
+2020,Sultanabad,Kodurupaka Curve,18.585,79.378,rural road,1,1,0,bike-skid,rainy,poor road condition
+2020,Dharmaram,Dharmaram X Road,18.6942,79.255,junction,2,1,2,bike-auto,collision,clear junction design issue
+2020,Dharmaram,Dongatuniki Gate,18.7215,79.2885,highway,3,1,3,truck-car,collision,foggy poor visibility
+2020,Dharmaram,Mallapur Curve,18.672,79.231,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2020,Dharmaram,Bommareddypally Stage,18.711,79.274,junction,2,0,2,auto-bike,collision,clear lack of signage
+2020,Dharmaram,Pathapally Bridge,18.6585,79.215,highway,2,1,1,head-on,collision,clear road engineering defect
+2020,Dharmaram,Dharmaram Main Market,18.693,79.2535,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2020,Dharmaram,Khila Vanaparthy Road,18.735,79.312,rural road,2,1,1,bike-tractor,collision,clear overspeeding
+2020,Dharmaram,Sayampally Curve,18.6815,79.2445,rural road,1,0,1,car-divider,hit,rainy poor road condition
+2020,Odela,Odela X Road,18.4912,79.4125,junction,2,1,2,bike-auto,collision,clear junction design issue
+2020,Odela,Kanagarthi Curve,18.514,79.445,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2020,Odela,Odela Railway Gate,18.4855,79.408,rural road,2,1,1,car-truck,collision,foggy poor visibility
+2020,Odela,Gumpula Stage,18.532,79.461,junction,3,0,4,auto-bike,collision,clear lack of signage
+2020,Odela,Pothkapally Road,18.475,79.385,rural road,2,1,2,head-on,collision,cloudy poor road condition
+2020,Odela,Madaka Bridge Approach,18.502,79.432,rural road,1,0,2,car-divider,hit,clear road engineering defect
+2020,Odela,Kolanoor-Odela Link,18.468,79.372,rural road,2,1,1,bike-tractor,collision,clear overspeeding
+2020,Odela,Shanam Crossroads,18.525,79.453,junction,2,0,1,bike-bike,collision,clear poor lighting
+2020,Palakurthy,Palakurthy X Road,18.6655,79.434,junction,2,1,2,bike-auto,collision,clear junction design issue
+2020,Palakurthy,Basanthnagar Bridge,18.681,79.4525,highway,3,1,3,truck-car,collision,foggy poor visibility
+2020,Palakurthy,Putta Konda Curve,18.642,79.418,highway,1,0,1,car-divider,hit,rainy dangerous curve
+2020,Palakurthy,Kukkalagudur Stage,18.651,79.426,junction,2,0,2,auto-bike,collision,clear lack of signage
+2020,Palakurthy,Godavarikhani Link Road,18.702,79.465,highway,2,2,1,head-on,collision,clear overspeeding
+2020,Palakurthy,Jakkapur Curve,18.625,79.405,rural road,1,0,1,bike-skid,cloudy,poor road condition
+2020,Palakurthy,Palakurthy Market Area,18.664,79.432,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2020,Palakurthy,Eligaid Crossroad,18.638,79.392,junction,2,1,2,bike-tractor,collision,clear lane violation
+2020,Julapalli,Julapalli X Road,18.6015,79.324,junction,2,1,2,bike-auto,collision,clear junction design issue
+2020,Julapalli,Telukunta Curve,18.582,79.3455,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2020,Julapalli,Kukkalagudur Road,18.618,79.311,rural road,2,1,1,bike-tractor,collision,clear overspeeding
+2020,Julapalli,Abbaiahpally Stage,18.6255,79.3325,junction,2,0,2,car-bike,collision,cloudy lack of signage
+2020,Julapalli,Peddapalli-Julapalli Link,18.605,79.358,rural road,2,1,3,head-on,collision,foggy poor visibility
+2020,Julapalli,Wadkapur Curve,18.571,79.295,rural road,1,0,2,car-divider,hit,clear road engineering defect
+2020,Julapalli,Julapalli Main Market,18.603,79.322,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2020,Julapalli,Sultanabad Road Junction,18.595,79.338,junction,2,1,1,auto-bike,collision,clear lane violation
+2020,Eligaid,Eligaid X Road,18.528,79.281,junction,2,1,1,bike-auto,collision,clear junction design issue
+2020,Eligaid,Dhoolikatta Curve,18.545,79.298,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2020,Eligaid,Sultanabad-Eligaid Link,18.512,79.315,rural road,2,1,2,head-on,collision,clear overspeeding
+2020,Eligaid,Shivapally Bridge,18.552,79.274,rural road,2,0,2,bike-tractor,collision,foggy poor visibility
+2020,Eligaid,Muppirithota Junction,18.536,79.302,junction,3,0,3,auto-bike,collision,cloudy lack of signage
+2020,Eligaid,Eligaid-Julapalli Road,18.521,79.265,rural road,1,1,0,car-divider,hit,clear road engineering defect
+2020,Eligaid,Lalapally Stage,18.54,79.325,rural road,2,1,1,bike-bike,collision,clear poor lighting
+2020,Eligaid,Narsapur Crossroad,18.518,79.291,junction,2,0,1,bike-auto,collision,rainy poor road condition
+2020,Ramagiri,Ramagiri Fort Road,18.583,79.492,rural road,2,1,2,bike-auto,collision,clear dangerous curve
+2020,Ramagiri,Centenary Colony X Road,18.612,79.525,junction,3,1,4,truck-car,collision,clear junction design issue
+2020,Ramagiri,Ladnapur Bridge,18.595,79.478,rural road,2,0,2,bike-tractor,collision,rainy poor road condition
+2020,Ramagiri,Begumpet Stage,18.567,79.505,rural road,1,1,0,car-divider,hit,cloudy road engineering defect
+2020,Ramagiri,Kalvacharla Curve,18.631,79.541,highway,2,2,1,head-on,collision,clear overspeeding
+2020,Ramagiri,Pannur Crossroad,18.552,79.462,junction,2,0,2,auto-bike,collision,foggy poor visibility
+2020,Ramagiri,Mining Area Entry Gate,18.605,79.518,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2020,Ramagiri,Sabitham Waterfall Link,18.574,79.529,rural road,1,0,2,bike-skid,clear,lack of signage
+2020,Anthergaon,Basanthnagar X Road,18.712,79.418,junction,2,1,2,truck-car,collision,clear junction design issue
+2020,Anthergaon,Anthergaon Railway Gate,18.731,79.435,rural road,2,0,1,bike-auto,collision,foggy poor visibility
+2020,Anthergaon,Golliwada Curve,18.745,79.452,rural road,1,0,2,bike-skid,rainy,dangerous curve
+2020,Anthergaon,Potial Road Junction,18.698,79.405,junction,2,1,1,bike-bike,collision,clear lack of signage
+2020,Anthergaon,Eklaspur Stage,18.721,79.392,rural road,2,1,3,head-on,collision,clear overspeeding
+2020,Anthergaon,Kundanpalli Road,18.705,79.441,rural road,1,0,1,car-divider,hit,cloudy road engineering defect
+2020,Anthergaon,Brahmanapally Road,18.685,79.381,rural road,2,0,2,bike-tractor,collision,clear poor lighting
+2020,Anthergaon,Murmur Bridge Approach,18.755,79.465,rural road,1,0,1,auto-skid,rainy,poor road condition
+2020,Mutharam,Mutharam Main Road Curve,18.452,79.514,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2020,Mutharam,Parupalli X Road,18.471,79.532,junction,2,1,2,bike-auto,collision,clear junction design issue
+2020,Mutharam,Odedu Bridge Approach,18.495,79.558,rural road,2,1,1,bike-tractor,collision,foggy poor visibility
+2020,Mutharam,Khammampally Stage,18.438,79.489,rural road,2,0,2,bike-bike,collision,clear poor lighting
+2020,Mutharam,Manthani-Mutharam Road,18.465,79.525,rural road,2,2,1,head-on,collision,clear overspeeding
+2020,Mutharam,Potharam Junction,18.421,79.475,junction,2,0,1,auto-bike,collision,cloudy lack of signage
+2020,Mutharam,Mydambanda Curve,18.482,79.543,rural road,1,0,2,car-divider,hit,rainy road engineering defect
+2020,Mutharam,Ladnapur Link Road,18.441,79.502,rural road,2,1,1,bike-tractor,collision,clear poor road condition
+2020,Ramagundam,Godavarikhani Chowrastha,18.7502,79.4821,junction,2,1,2,truck-car,collision,clear junction design issue
+2020,Ramagundam,NTPC Jyothi Nagar Curve,18.7415,79.4582,urban road,1,0,1,bike,skid,clear dangerous curve
+2020,Ramagundam,Medipally Cross Road,18.7152,79.4623,highway,3,2,4,multi-vehicle,pileup,rainy poor visibility
+2020,Ramagundam,FCI Road Entrance,18.7612,79.491,rural road,2,0,2,bike-auto,collision,clear poor road condition
+2020,Ramagundam,Malkapur NH 63 Stretch,18.7845,79.5123,highway,2,1,0,head-on,collision,clear overspeeding
+2020,Ramagundam,8th Incline Colony,18.7321,79.4754,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2020,Ramagundam,GM Office Road,18.7455,79.4891,urban road,2,0,2,rear-end,collision,clear lane violation
+2020,Ramagundam,Yellampally Bridge Approach,18.8102,79.3951,highway,1,1,0,car-lorry,collision,foggy road engineering defect
+2020,Ramagundam,Fertilizer City Gate,18.7698,79.5022,junction,2,0,3,bike-auto,collision,clear lack of signage
+2020,Ramagundam,Godavarikhani Bridge,18.7856,79.4812,highway,2,2,1,truck-car,collision,rainy poor road condition
+2020,Ramagundam,Ramagundam Railway Station Rd,18.7589,79.4456,urban road,2,0,1,bike-auto,collision,clear junction design issue
+2020,Ramagundam,Janagaon Cross Roads,18.7121,79.4325,highway,3,1,5,multi-vehicle,collision,clear overspeeding
+2020,Ramagundam,Pranthiya Hospital Turn,18.7523,79.4789,urban road,1,0,1,pedestrian,hit,clear dangerous curve
+2020,Ramagundam,Laxmi Puram Area,18.7388,79.4655,rural road,2,0,2,bike-auto,collision,clear poor road condition
+2020,Ramagundam,Kamanpur X Road,18.7105,79.5122,junction,2,1,2,car-lorry,collision,cloudy lane violation
+2020,Ramagundam,Basant Nagar NH Section,18.6821,79.4215,highway,2,0,2,rear-end,collision,clear overspeeding
+2020,Ramagundam,Coal City Mall Area,18.749,79.4801,urban road,2,0,1,bike-auto,collision,clear lack of signage
+2020,Ramagundam,Rajiv Rahadari (RGM Section),18.7255,79.4523,highway,1,1,0,car,hitting,divider clear road engineering defect
+2020,Ramagundam,Markandeya Colony,18.7566,79.4922,urban road,2,0,1,bike-bike,collision,cloudy poor lighting
+2020,Ramagundam,GDK 5th Incline,18.7288,79.4711,urban road,1,1,0,pedestrian,hit,clear overspeeding
+2020,Ramagundam,Singareni Colony Main Rd,18.7411,79.4855,rural road,2,0,3,bike-auto,collision,clear poor road condition
+2020,Ramagundam,Bypass Road Jn,18.7712,79.4621,junction,2,1,2,truck-car,collision,rainy poor visibility
+2020,Ramagundam,Power House Colony,18.7355,79.4488,urban road,1,0,1,bike,skid,clear poor road condition
+2020,Ramagundam,Annapurna Colony,18.745,79.4722,urban road,2,0,2,bike-auto,collision,clear junction design issue
+2020,Ramagundam,Mallial Palli Area,18.7912,79.5244,rural road,1,1,0,car,hit,tree foggy poor visibility
+2020,Ramagundam,Ramesh Nagar,18.7552,79.4988,urban road,2,0,1,bike-auto,collision,clear lack of signage
+2020,Ramagundam,Shanti Nagar Curve,18.7488,79.4566,urban road,1,0,2,bike,skid,clear dangerous curve
+2020,Ramagundam,Five Incidents Area,18.7301,79.4699,junction,2,1,1,head-on,collision,clear lane violation
+2020,Ramagundam,Vithal Nagar,18.7622,79.4822,urban road,2,0,2,bike-auto,collision,cloudy poor road condition
+2020,Ramagundam,Subhash Nagar NH 63,18.7755,79.5055,highway,2,2,2,truck-car,collision,clear overspeeding
+2020,Ramagundam,Bagat Singh Nagar,18.7422,79.4911,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2020,Ramagundam,Old Bus Stand GDK,18.7481,79.4833,junction,3,0,4,multi-vehicle,collision,clear junction design issue
+2020,Ramagundam,Krishna Nagar,18.7366,79.4511,rural road,2,0,1,bike-bike,collision,clear road engineering defect
+2020,Ramagundam,Vocational College Area,18.7533,79.4711,urban road,1,0,1,bike,skid,rainy poor road condition
+2020,Ramagundam,Industrial Area Gate,18.7655,79.51,junction,2,1,1,car-lorry,collision,clear lane violation
+2020,Peddapalli,Rangampalli Cross Road,18.6121,79.3785,junction,3,1,4,truck-car,collision,clear junction design issue
+2020,Peddapalli,Peddapalli-Sultanabad Road,18.6045,79.3621,highway,2,0,2,bike-auto,collision,clear overspeeding
+2020,Peddapalli,Appannapally Bridge,18.6341,79.3902,highway,1,1,0,car,hit,divider rainy poor visibility
+2020,Peddapalli,Railway Station Road Jn,18.6189,79.3855,urban road,2,0,1,bike-auto,collision,clear lack of signage
+2020,Peddapalli,Basanthnagar NH Stretch,18.6822,79.4211,highway,2,1,2,head-on,collision,cloudy lane violation
+2020,Peddapalli,Sabbitham Road Curve,18.5902,79.3455,rural road,1,0,1,bike,skid,clear dangerous curve
+2020,Peddapalli,Peddakalvala Bypass,18.6455,79.3988,highway,2,2,1,truck-car,collision,clear overspeeding
+2020,Peddapalli,Goshala Road Entrance,18.6101,79.3705,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2020,Peddapalli,Hanuman Temple Curve,18.6212,79.3812,urban road,2,0,2,rear-end,collision,clear dangerous curve
+2020,Peddapalli,Palakurthy X Road,18.6011,79.3512,junction,2,0,3,bike-auto,collision,clear junction design issue
+2020,Peddapalli,Raghavapur Bridge,18.5755,79.3321,rural road,1,1,0,tractor-bike,collision,cloudy road engineering defect
+2020,Peddapalli,Bus Stand Area,18.6155,79.3744,junction,3,0,2,multi-vehicle,collision,clear lack of signage
+2020,Peddapalli,Kaman Circle,18.6133,79.3766,urban road,2,0,1,bike-auto,collision,clear lane violation
+2020,Peddapalli,FCI Godowns Road,18.6411,79.4102,highway,2,1,1,car-lorry,collision,foggy poor visibility
+2020,Peddapalli,Brahmanapalli Cross,18.5622,79.3215,rural road,2,0,2,bike-bike,collision,clear poor road condition
+2020,Peddapalli,Government Hospital Jn,18.619,79.3712,urban road,1,0,1,pedestrian,hit,clear poor road condition
+2020,Peddapalli,Housing Board Colony,18.6255,79.3899,urban road,2,0,1,rear-end,collision,clear poor lighting
+2020,Peddapalli,Odela Road Jn,18.6005,79.3922,junction,2,1,2,bike-auto,collision,clear junction design issue
+2020,Peddapalli,Kukkalagudur Curve,18.6644,79.4311,rural road,1,0,1,bike,skid,rainy dangerous curve
+2020,Peddapalli,Court Area Main Rd,18.6144,79.3699,urban road,2,0,2,car-bike,collision,clear overspeeding
+2020,Peddapalli,Rangampalli Bypass,18.6099,79.3799,highway,3,1,3,truck-car,collision,clear lane violation
+2020,Peddapalli,Market Yard Gate,18.6222,79.3833,urban road,2,0,1,bike-auto,collision,clear poor road condition
+2020,Peddapalli,Godavarikhani Rd NH,18.6512,79.4155,highway,2,2,0,head-on,collision,clear road engineering defect
+2020,Peddapalli,Peddapalli High School Rd,18.6177,79.3733,urban road,1,0,1,pedestrian,hit,clear lack of signage
+2020,Peddapalli,Jhanda Chowra,18.6115,79.3755,junction,2,0,2,bike-auto,collision,clear junction design issue
+2020,Peddapalli,Manthani Road Jn,18.6201,79.4011,junction,2,1,1,car-lorry,collision,cloudy overspeeding
+2020,Peddapalli,Pathapalli Stretch,18.5811,79.3401,rural road,1,1,0,bike,skid,rainy poor road condition
+2020,Peddapalli,Vaddepalli X Road,18.6655,79.4422,junction,2,0,3,bike-auto,collision,clear poor visibility
+2020,Peddapalli,LIC Office Area,18.614,79.381,urban road,1,0,1,bike-auto,collision,clear poor lighting
+2020,Peddapalli,Bypass Culvert,18.6388,79.4055,highway,2,1,1,car,hit,bridge wall foggy road engineering defect
+2020,Manthani,Godavari Bridge Approach,18.6625,79.6633,highway,2,1,2,car-lorry,collision,foggy road engineering defect
+2020,Manthani,Manthani-Kamanpur X Road,18.6488,79.6421,junction,2,0,3,bike-auto,collision,clear junction design issue
+2020,Manthani,Gunjapadugu Curve,18.6812,79.6844,rural road,1,1,0,bike,skid,clear dangerous curve
+2020,Manthani,Civil Courts Junction,18.6522,79.6688,urban road,2,0,1,bike-auto,collision,clear lack of signage
+2020,Manthani,Eklaspur Road Stretch,18.6311,79.6355,rural road,2,0,2,rear-end,collision,clear poor road condition
+2020,Manthani,Main Road Bus Stand,18.6555,79.6712,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2020,Manthani,Kannala Cross Road,18.6144,79.6211,junction,3,1,4,truck-car,collision,clear overspeeding
+2020,Manthani,Adavisomanpalli Curve,18.7122,79.7233,rural road,1,0,2,car,hit,tree rainy poor visibility
+2020,Manthani,Ambedkar Statue Centre,18.6533,79.6699,junction,2,0,2,bike-bike,collision,clear lane violation
+2020,Manthani,Peddapalli-Manthani Hwy,18.6422,79.6122,highway,2,1,1,head-on,collision,clear overspeeding
+2020,Manthani,Puttapaka Area,18.6744,79.6911,rural road,2,0,3,bike-auto,collision,clear poor road condition
+2020,Manthani,Government Hospital Rd,18.6588,79.6755,urban road,1,0,1,pedestrian,hit,clear poor road condition
+2020,Manthani,Kuchirajupalli Turn,18.6255,79.6311,rural road,1,1,0,bike,skid,cloudy dangerous curve
+2020,Manthani,Mallapur X Road,18.6911,79.7155,junction,2,0,2,bike-auto,collision,clear lack of signage
+2020,Manthani,Ladnapur Bridge,18.6388,79.6522,highway,2,1,1,car-lorry,collision,foggy road engineering defect
+2020,Manthani,Sripada Colony,18.6601,79.6802,urban road,2,0,2,rear-end,collision,clear poor lighting
+2020,Manthani,Bhatpalli Road,18.6122,79.6101,rural road,2,0,1,bike-bike,collision,clear lane violation
+2020,Manthani,Revenue Office Rd,18.6544,79.6666,urban road,1,0,1,pedestrian,hit,clear poor road condition
+2020,Manthani,High School Road Jn,18.6511,79.668,junction,2,0,2,bike-auto,collision,clear junction design issue
+2020,Manthani,Vilochavaram Curve,18.7011,79.7322,rural road,1,1,1,tractor-bike,collision,clear overspeeding
+2020,Manthani,Swarna Nagar,18.6466,79.6611,urban road,2,0,1,bike-auto,collision,clear lack of signage
+2020,Manthani,Bypass Culvert,18.6355,79.6488,highway,1,0,2,car,hitting,divider rainy road engineering defect
+2020,Manthani,Venkatapur Road,18.6855,79.7022,rural road,2,1,0,head-on,collision,clear poor visibility
+2020,Manthani,Police Station Road,18.6566,79.6701,urban road,1,0,1,bike-auto,collision,clear lane violation
+2020,Manthani,Godavari Pushkar Ghat,18.6688,79.6655,urban road,2,0,2,bike-auto,collision,clear poor lighting
+2020,Kamanpur,Kamanpur Main Road Jn,18.6675,79.5244,junction,2,0,2,bike-auto,collision,clear junction design issue
+2020,Kamanpur,Gundaram Bridge,18.6811,79.5522,highway,2,1,1,car-lorry,collision,foggy road engineering defect
+2020,Kamanpur,Nagaram Cross Road,18.6455,79.5011,junction,3,1,3,truck-car,collision,clear overspeeding
+2020,Kamanpur,Penchikalpet Curve,18.6922,79.5733,rural road,1,0,1,bike,skid,rainy dangerous curve
+2020,Kamanpur,Singareni Quarters Rd,18.6622,79.5311,urban road,2,0,2,bike-bike,collision,clear poor lighting
+2020,Kamanpur,RGM Colony Entrance,18.6755,79.5422,urban road,1,0,1,pedestrian,hit,cloudy lack of signage
+2020,Kamanpur,Kamanpur-Manthani Hwy,18.6588,79.5922,highway,2,1,0,head-on,collision,clear lane violation
+2020,Kamanpur,Mulkalapalli Gate,18.6311,79.4855,rural road,2,0,2,bike-auto,collision,clear poor road condition
+2020,Kamanpur,Adavisomanpalli Rd,18.7055,79.6101,rural road,1,1,0,tractor-bike,collision,foggy poor visibility
+2020,Kamanpur,Bus Stand Circle,18.6688,79.5255,junction,2,0,3,rear-end,collision,clear junction design issue
+2020,Kamanpur,Julapalli Turn,18.6501,79.5155,rural road,1,0,2,bike,skid,clear dangerous curve
+2020,Kamanpur,NTPC Boundary Rd,18.6844,79.5411,highway,2,1,1,car-lorry,collision,clear overspeeding
+2020,Kamanpur,High School Junction,18.6655,79.5211,urban road,2,0,1,bike-auto,collision,clear lack of signage
+2020,Kamanpur,Coal Mine 7 Area,18.6911,79.5622,rural road,1,0,1,bike,skid,rainy poor road condition
+2020,Kamanpur,Market Area,18.6699,79.5288,urban road,2,0,2,bike-auto,collision,clear poor lighting
+2020,Kamanpur,Gunjapadugu X Road,18.6822,79.5811,junction,2,1,2,truck-car,collision,clear lane violation
+2020,Kamanpur,Police Station Rd Jn,18.6633,79.5233,junction,1,0,1,pedestrian,hit,clear junction design issue
+2020,Kamanpur,Mallapur Boundary,18.6255,79.4722,rural road,2,1,1,bike-bike,collision,cloudy poor road condition
+2020,Kamanpur,Kamanpur Bypass,18.6722,79.5488,highway,3,0,4,multi-vehicle,collision,clear overspeeding
+2020,Kamanpur,Shanti Nagar,18.6611,79.5355,urban road,2,0,1,rear-end,collision,clear lack of signage
+2020,Kamanpur,River Belt Road,18.7122,79.6255,rural road,1,1,0,car,hitting,divider foggy road engineering defect
+2020,Kamanpur,Venkatraopalli Cross,18.6388,79.4922,junction,2,0,2,bike-auto,collision,clear poor visibility
+2021,Srirampur,Srirampur X Road,18.5255,79.3142,junction,2,1,2,bike-auto,collision,clear junction design issue
+2021,Srirampur,Srirampur Colony Gate,18.518,79.3055,urban road,2,0,1,car-bike,collision,clear poor lighting
+2021,Srirampur,Rajiv Rahadari (Srirampur Stretch),18.521,79.311,highway,2,1,3,head-on,collision,cloudy overspeeding
+2021,Srirampur,Nagepalli Curve,18.534,79.325,highway,1,0,1,bike-skid,rainy,dangerous curve
+2021,Srirampur,SCCL Shopping Complex Rd,18.5165,79.302,urban road,1,0,2,pedestrian,hit,clear lack of signage
+2021,Srirampur,Mothe Road Junction,18.541,79.3325,junction,3,1,2,truck-car,collision,clear overspeeding
+2021,Srirampur,Srirampur Filter Bed Area,18.529,79.318,rural road,1,0,1,bike-skid,clear,poor road condition
+2021,Srirampur,Gauri Shankar Temple Curve,18.512,79.298,urban road,2,0,1,bike-auto,collision,clear dangerous curve
+2021,Srirampur,Peddapalli-Srirampur Link,18.5505,79.345,highway,2,1,2,car-lorry,collision,foggy poor visibility
+2021,Srirampur,GM Office Road,18.5195,79.3075,urban road,1,0,1,bike-skid,rainy,poor road condition
+2021,Sultanabad,Sultanabad X Road,18.5285,79.3195,junction,3,1,2,car-auto,collision,clear junction design issue
+2021,Sultanabad,Katnapally Gate,18.561,79.352,highway,2,1,2,bike-lorry,collision,foggy poor visibility
+2021,Sultanabad,Poosala Curve,18.545,79.336,highway,1,0,1,bike-skid,rainy,dangerous curve
+2021,Sultanabad,Garrepalli Stage,18.498,79.284,junction,2,0,3,auto-bike,collision,clear lack of signage
+2021,Sultanabad,Neerukulla Bridge,18.572,79.365,highway,2,2,1,head-on,collision,clear overspeeding
+2021,Sultanabad,Sultanabad Market Area,18.526,79.317,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2021,Sultanabad,Srirampur Link Road,18.521,79.311,highway,2,1,1,truck-car,collision,clear lane violation
+2021,Sultanabad,Kodurupaka Curve,18.585,79.378,rural road,1,0,1,bike-skid,rainy,poor road condition
+2021,Dharmaram,Dharmaram X Road,18.6942,79.255,junction,3,1,2,truck-auto,collision,clear junction design issue
+2021,Dharmaram,Dongatuniki Gate,18.7215,79.2885,highway,2,1,1,bike-lorry,collision,foggy poor visibility
+2021,Dharmaram,Mallapur Curve,18.672,79.231,rural road,1,0,2,bike-skid,rainy,dangerous curve
+2021,Dharmaram,Bommareddypally Stage,18.711,79.274,junction,2,0,1,car-bike,collision,clear lack of signage
+2021,Dharmaram,Pathapally Bridge,18.6585,79.215,highway,2,1,2,head-on,collision,clear road engineering defect
+2021,Dharmaram,Dharmaram Main Market,18.693,79.2535,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2021,Dharmaram,Khila Vanaparthy Road,18.735,79.312,rural road,2,1,1,bike-tractor,collision,clear overspeeding
+2021,Dharmaram,Sayampally Curve,18.6815,79.2445,rural road,1,0,1,car-divider,hit,rainy poor road condition
+2021,Odela,Odela X Road,18.4912,79.4125,junction,3,1,2,car-auto,collision,clear junction design issue
+2021,Odela,Kanagarthi Curve,18.514,79.445,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2021,Odela,Odela Railway Gate,18.4855,79.408,rural road,2,1,1,bike-lorry,collision,foggy poor visibility
+2021,Odela,Gumpula Stage,18.532,79.461,junction,2,0,2,bike-bike,collision,clear lack of signage
+2021,Odela,Pothkapally Road,18.475,79.385,rural road,2,1,3,head-on,collision,clear overspeeding
+2021,Odela,Madaka Bridge Approach,18.502,79.432,rural road,1,0,1,car-divider,hit,cloudy road engineering defect
+2021,Odela,Kolanoor-Odela Link,18.468,79.372,rural road,2,1,2,truck-bike,collision,clear lane violation
+2021,Odela,Shanam Crossroads,18.525,79.453,junction,2,0,2,auto-bike,collision,clear poor lighting
+2021,Palakurthy,Palakurthy X Road,18.6655,79.434,junction,3,1,2,truck-auto,collision,clear junction design issue
+2021,Palakurthy,Basanthnagar Bridge,18.681,79.4525,highway,2,2,1,head-on,collision,clear road engineering defect
+2021,Palakurthy,Putta Konda Curve,18.642,79.418,highway,1,0,1,bike-skid,rainy,dangerous curve
+2021,Palakurthy,Kukkalagudur Stage,18.651,79.426,junction,2,0,2,bike-bike,collision,clear lack of signage
+2021,Palakurthy,Godavarikhani Link Road,18.702,79.465,highway,2,1,2,car-lorry,collision,foggy poor visibility
+2021,Palakurthy,Jakkapur Curve,18.625,79.405,rural road,1,1,0,car-divider,hit,clear overspeeding
+2021,Palakurthy,Palakurthy Market Area,18.664,79.432,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2021,Palakurthy,Eligaid Crossroad,18.638,79.392,junction,2,1,1,bike-tractor,collision,clear lane violation
+2021,Julapalli,Julapalli X Road,18.6015,79.324,junction,3,1,2,truck-auto,collision,clear junction design issue
+2021,Julapalli,Telukunta Curve,18.582,79.3455,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2021,Julapalli,Kukkalagudur Road,18.618,79.311,rural road,2,1,1,bike-tractor,collision,clear lane violation
+2021,Julapalli,Abbaiahpally Stage,18.6255,79.3325,junction,2,0,2,bike-bike,collision,clear lack of signage
+2021,Julapalli,Peddapalli-Julapalli Link,18.605,79.358,rural road,2,1,2,head-on,collision,foggy poor visibility
+2021,Julapalli,Wadkapur Curve,18.571,79.295,rural road,1,1,0,car-divider,hit,clear overspeeding
+2021,Julapalli,Julapalli Main Market,18.603,79.322,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2021,Julapalli,Sultanabad Road Junction,18.595,79.338,junction,2,1,1,auto-bike,collision,clear road engineering defect
+2021,Eligaid,Eligaid X Road,18.528,79.281,junction,3,1,2,truck-auto,collision,clear junction design issue
+2021,Eligaid,Dhoolikatta Curve,18.545,79.298,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2021,Eligaid,Sultanabad-Eligaid Link,18.512,79.315,rural road,2,2,1,head-on,collision,clear overspeeding
+2021,Eligaid,Shivapally Bridge,18.552,79.274,rural road,2,1,1,bike-lorry,collision,foggy poor visibility
+2021,Eligaid,Muppirithota Junction,18.536,79.302,junction,2,0,2,bike-bike,collision,clear lack of signage
+2021,Eligaid,Eligaid-Julapalli Road,18.521,79.265,rural road,1,0,1,car-divider,hit,cloudy road engineering defect
+2021,Eligaid,Lalapally Stage,18.54,79.325,rural road,2,1,2,bike-tractor,collision,clear lane violation
+2021,Eligaid,Narsapur Crossroad,18.518,79.291,junction,2,0,2,auto-bike,collision,clear poor lighting
+2021,Ramagiri,Ramagiri Fort Road,18.583,79.492,rural road,1,0,2,bike-skid,rainy,dangerous curve
+2021,Ramagiri,Centenary Colony X Road,18.612,79.525,junction,2,1,2,truck-bike,collision,clear junction design issue
+2021,Ramagiri,Ladnapur Bridge,18.595,79.478,rural road,2,1,1,car-lorry,collision,foggy poor visibility
+2021,Ramagiri,Begumpet Stage,18.567,79.505,rural road,2,0,2,bike-auto,collision,clear lack of signage
+2021,Ramagiri,Kalvacharla Curve,18.631,79.541,highway,3,2,4,truck-car,collision,clear overspeeding
+2021,Ramagiri,Pannur Crossroad,18.552,79.462,junction,2,0,2,bike-bike,collision,cloudy poor lighting
+2021,Ramagiri,Mining Area Entry Gate,18.605,79.518,urban road,2,1,1,truck-auto,collision,clear lane violation
+2021,Ramagiri,Sabitham Waterfall Link,18.574,79.529,rural road,1,0,1,bike-skid,rainy,poor road condition
+2021,Anthergaon,Basanthnagar X Road,18.712,79.418,junction,3,1,2,truck-auto,collision,clear junction design issue
+2021,Anthergaon,Anthergaon Railway Gate,18.731,79.435,rural road,2,1,1,bike-lorry,collision,foggy poor visibility
+2021,Anthergaon,Golliwada Curve,18.745,79.452,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2021,Anthergaon,Potial Road Junction,18.698,79.405,junction,2,0,2,bike-bike,collision,clear lack of signage
+2021,Anthergaon,Eklaspur Stage,18.721,79.392,rural road,2,2,1,head-on,collision,clear overspeeding
+2021,Anthergaon,Kundanpalli Road,18.705,79.441,rural road,1,0,1,car-divider,hit,cloudy road engineering defect
+2021,Anthergaon,Brahmanapally Road,18.685,79.381,rural road,2,1,2,bike-tractor,collision,clear poor lighting
+2021,Anthergaon,Murmur Bridge Approach,18.755,79.465,rural road,1,0,1,bike-skid,rainy,poor road condition
+2021,Mutharam,Mutharam Main Road Curve,18.452,79.514,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2021,Mutharam,Parupalli X Road,18.471,79.532,junction,2,1,1,bike-auto,collision,clear junction design issue
+2021,Mutharam,Odedu Bridge Approach,18.495,79.558,rural road,2,1,2,truck-bike,collision,foggy poor visibility
+2021,Mutharam,Khammampally Stage,18.438,79.489,rural road,2,0,2,bike-bike,collision,clear poor lighting
+2021,Mutharam,Manthani-Mutharam Road,18.465,79.525,rural road,3,2,2,head-on,collision,clear overspeeding
+2021,Mutharam,Potharam Junction,18.421,79.475,junction,2,0,1,auto-bike,collision,cloudy lack of signage
+2021,Mutharam,Mydambanda Curve,18.482,79.543,rural road,1,0,2,car-divider,hit,rainy road engineering defect
+2021,Mutharam,Ladnapur Link Road,18.441,79.502,rural road,2,1,1,bike-tractor,collision,clear poor road condition
+2021,Ramagundam,Godavarikhani-Vemulawada Hwy,18.7528,79.4815,highway,2,1,2,car-lorry,collision,clear overspeeding
+2021,Ramagundam,NTPC Bridge Approach,18.7315,79.5162,highway,3,1,3,truck-car,collision,cloudy dangerous curve
+2021,Ramagundam,Medipalli Quarry Entrance,18.7172,79.5338,rural road,2,1,1,dumper-bike,collision,clear poor visibility
+2021,Ramagundam,5 Incline Market Road,18.774,79.4742,urban road,2,0,2,bike-auto,collision,clear junction design issue
+2021,Ramagundam,GM Office West Gate,18.7588,79.476,urban road,1,0,1,bike-skid,rainy,poor road condition
+2021,Ramagundam,FCI Township North Road,18.7685,79.4942,urban road,2,0,2,car-bike,collision,clear lane violation
+2021,Ramagundam,Janagaon Internal Curve,18.7075,79.4462,rural road,1,1,1,bike-skid,foggy,dangerous curve
+2021,Ramagundam,8 Incline Main Bazaar,18.784,79.4638,urban road,3,0,4,auto-auto,collision,clear junction design issue
+2021,Ramagundam,Godavarikhani Bridge (South),18.8042,79.4515,highway,2,2,1,head-on,collision,clear overspeeding
+2021,Ramagundam,Malkapur Industrial Cut,18.7445,79.4338,junction,3,1,3,truck-lorry,collision,cloudy lack of signage
+2021,Ramagundam,Vittal Nagar Park Corner,18.7512,79.4692,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2021,Ramagundam,Kundanpalli Stretch B,18.7675,79.5362,rural road,2,0,2,bike-auto,collision,rainy poor road condition
+2021,Ramagundam,Laxmipuram Sector 3,18.7455,79.5152,urban road,2,0,1,car-bike,collision,clear road engineering defect
+2021,Ramagundam,Rajiv Rahadari km 185,18.7468,79.5182,highway,2,1,2,rear-end,collision,clear overspeeding
+2021,Ramagundam,Malyalapalli Junction,18.7098,79.4948,junction,2,1,2,bike-bike,collision,clear junction design issue
+2021,Ramagundam,Markandeya Colony Link,18.7592,79.4635,urban road,1,0,1,bike-skid,cloudy,poor road condition
+2021,Ramagundam,7 Incline Colony Gate,18.7925,79.4572,urban road,2,0,2,car-auto,collision,clear lane violation
+2021,Ramagundam,Housing Board Arch,18.7428,79.5038,urban road,1,1,0,pedestrian,hit,clear lack of signage
+2021,Ramagundam,Ramesh Nagar Crossing,18.7805,79.4605,junction,3,1,2,lorry-auto,collision,foggy poor visibility
+2021,Ramagundam,Prasanth Nagar Lane 4,18.7725,79.4862,urban road,1,0,1,bike-skid,clear,poor lighting
+2021,Ramagundam,Subash Nagar North,18.7695,79.4905,urban road,2,0,2,auto-bike,collision,clear road engineering defect
+2021,Ramagundam,Gouthami Nagar 2nd Road,18.7488,79.5135,urban road,1,0,1,bike-skid,rainy,poor road condition
+2021,Ramagundam,Kalyan Nagar Circle,18.7465,79.5105,junction,2,0,3,car-bike,collision,clear junction design issue
+2021,Ramagundam,Shanti Nagar Link Road,18.7668,79.4775,urban road,2,1,1,bike-auto,collision,clear overspeeding
+2021,Ramagundam,Maredupalli Inner Link,18.7282,79.538,rural road,1,1,0,bike-skid,cloudy,dangerous curve
+2021,Ramagundam,Bhagat Singh Nagar Point B,18.7648,79.4725,urban road,2,0,2,car-auto,collision,clear lane violation
+2021,Ramagundam,Vocational College Outer,18.7755,79.4752,urban road,2,0,1,bike-auto,collision,clear lack of signage
+2021,Ramagundam,NTPC Ash Pond Road,18.7438,79.5095,rural road,2,1,2,truck-bike,collision,clear overspeeding
+2021,Ramagundam,Annapurna Colony High Road,18.7585,79.4945,urban road,1,1,0,pedestrian,hit,rainy poor lighting
+2021,Ramagundam,Singareni Hospital Backgate,18.7562,79.4832,urban road,2,0,2,bike-bike,collision,clear road engineering defect
+2021,Ramagundam,Allur Village Track,18.7995,79.4392,rural road,2,1,1,tractor-bike,collision,foggy poor visibility
+2021,Ramagundam,Jyothi Nagar Corner B,18.7505,79.5065,urban road,1,0,1,bike-skid,clear,dangerous curve
+2021,Ramagundam,MG Road North,18.7565,79.4895,urban road,2,0,2,car-auto,collision,clear lane violation
+2021,Ramagundam,GDK 9 Incline Slope B,18.7955,79.4655,rural road,1,1,0,bike-skid,clear,poor road condition
+2021,Ramagundam,Fertilizer City West Gate,18.7758,79.5005,junction,2,0,2,auto-bike,collision,clear junction design issue
+2021,Peddapalli,Andugulapalli Junction,18.6362,79.3925,junction,2,1,2,car-lorry,collision,clear overspeeding
+2021,Peddapalli,Basanthnagar Flyover,18.683,79.4145,highway,3,1,4,truck-auto,collision,clear lane violation
+2021,Peddapalli,Peddapalli-Sultanabad Bypass,18.5815,79.3375,highway,2,0,2,head-on,collision,rainy dangerous curve
+2021,Peddapalli,Rangampalli Inner Rd,18.6035,79.3642,urban road,2,0,1,bike-auto,collision,clear junction design issue
+2021,Peddapalli,Sabitham Waterfall Rd,18.6265,79.4005,rural road,1,1,0,bike-skid,clear,poor road condition
+2021,Peddapalli,Railway Overbridge (ROB),18.6192,79.3888,highway,2,0,2,rear-end,collision,cloudy poor lighting
+2021,Peddapalli,Appannapet Canal Gate,18.6405,79.3925,rural road,1,0,1,bike-skid,clear,road engineering defect
+2021,Peddapalli,Raghavapur Bridge Approach,18.5855,79.3405,highway,2,1,1,truck-bike,collision,foggy poor visibility
+2021,Peddapalli,MRO Office Junction B,18.6142,79.3702,junction,2,0,3,auto-bike,collision,clear lack of signage
+2021,Peddapalli,Peddakalvala High Road C,18.5725,79.3255,highway,3,2,2,lorry-car,collision,clear overspeeding
+2021,Peddapalli,Brahmanpalli Arch,18.6315,79.3545,rural road,1,0,1,bike-skid,rainy,poor road condition
+2021,Peddapalli,Palthem Bypass Road,18.6515,79.4215,highway,2,1,2,head-on,collision,clear dangerous curve
+2021,Peddapalli,Bus Stand Outer Ring,18.6165,79.3762,urban road,2,0,2,auto-bike,collision,clear junction design issue
+2021,Peddapalli,Goureddypalli Turn B,18.5905,79.3315,highway,2,1,1,car-lorry,collision,foggy poor visibility
+2021,Peddapalli,Godavari Road Stretch B,18.6205,79.3875,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2021,Peddapalli,Kukkalagudur Road B,18.6545,79.4055,rural road,2,0,2,bike-auto,collision,cloudy lack of signage
+2021,Peddapalli,Subash Nagar 4th Line,18.6218,79.3745,urban road,1,0,1,bike-skid,rainy,road engineering defect
+2021,Peddapalli,Maredugonda High Road B,18.5645,79.3152,rural road,2,1,1,bike-bike,collision,clear dangerous curve
+2021,Peddapalli,Basanthnagar Colony Rd B,18.6775,79.4152,urban road,2,0,1,car-bike,collision,clear lane violation
+2021,Peddapalli,Khila Peddapalli Exit,18.6258,79.3802,urban road,2,0,2,bike-auto,collision,clear junction design issue
+2021,Peddapalli,Nimmapalli Hill Base B,18.5948,79.3515,rural road,1,1,0,bike-skid,clear,poor road condition
+2021,Peddapalli,Karimnagar Highway km 162,18.5505,79.2952,highway,3,1,3,truck-lorry,collision,clear overspeeding
+2021,Peddapalli,Peddapalli Court Road B,18.6138,79.3692,urban road,2,0,1,auto-bike,collision,clear lack of signage
+2021,Peddapalli,Bondampalli Forest Cut C,18.6345,79.4322,rural road,2,1,2,head-on,collision,foggy poor visibility
+2021,Peddapalli,Church Road Main Gate,18.6155,79.3795,urban road,1,1,0,pedestrian,hit,rainy road engineering defect
+2021,Peddapalli,Mallial Stream Side,18.6615,79.4455,rural road,1,0,1,bike-skid,clear,poor road condition
+2021,Peddapalli,Mancherial Road Bypass B,18.6108,79.3825,highway,2,1,1,car-lorry,collision,clear overspeeding
+2021,Peddapalli,Vaddala Main Street B,18.6275,79.3955,urban road,2,0,2,bike-auto,collision,cloudy junction design issue
+2021,Peddapalli,Market Yard Outer Gate B,18.6075,79.3715,urban road,1,0,2,pedestrian,hit,clear poor lighting
+2021,Peddapalli,Raghavapur Toll Booth B,18.5852,79.3425,highway,2,0,2,rear-end,collision,clear lane violation
+2021,Manthani,Manthani-Kataram Rd (Bridge),18.665,79.689,highway,2,1,2,car-lorry,collision,clear overspeeding
+2021,Manthani,Gunjapadugu X Road,18.615,79.636,junction,2,0,4,auto-bike,collision,clear junction design issue
+2021,Manthani,Eklaspur Main Road,18.639,79.66,rural road,1,0,1,bike-skid,rainy,poor road condition
+2021,Manthani,Manthani Town Circle,18.649,79.672,urban road,2,0,2,bike-bike,collision,clear lack of signage
+2021,Manthani,Bhatpally Village Link,18.626,79.643,rural road,2,1,1,tractor-bike,collision,clear lane violation
+2021,Manthani,Adavisomanpalli Junction,18.686,79.713,junction,3,2,3,truck-car,collision,cloudy overspeeding
+2021,Manthani,Govt Hospital Road,18.644,79.667,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2021,Manthani,Villochanda High Road,18.602,79.613,highway,2,0,2,head-on,collision,foggy poor visibility
+2021,Manthani,Puttapaka Curve,18.642,79.696,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2021,Manthani,Peddapalli-Manthani Hwy,18.633,79.606,highway,2,1,1,car-lorry,collision,clear overspeeding
+2021,Manthani,KHPS School Zone,18.656,79.682,urban road,1,0,2,pedestrian,hit,clear lack of signage
+2021,Manthani,Old Town Bazaar Rd,18.651,79.674,urban road,2,0,1,auto-bike,collision,cloudy junction design issue
+2021,Manthani,Sripada Sagar Rd (Stretch),18.693,79.746,highway,3,1,2,truck-car,collision,clear lane violation
+2021,Manthani,Kuchirajupalli Road,18.596,79.599,rural road,1,1,0,bike-wall,hit,clear dangerous curve
+2021,Manthani,Civil Courts Entrance,18.647,79.671,urban road,2,0,1,car-bike,collision,clear road engineering defect
+2021,Manthani,Nagaram Rural Link,18.619,79.623,rural road,1,0,2,bike-skid,rainy,poor road condition
+2021,Manthani,Manthani Bus Stand Jn,18.65,79.672,junction,3,0,3,bus-auto,collision,clear junction design issue
+2021,Manthani,Mallaram Forest Road,18.612,79.586,highway,2,1,1,head-on,collision,foggy poor visibility
+2021,Manthani,Centenary Colony Link,18.706,79.622,rural road,1,0,1,bike-skid,cloudy,poor road condition
+2021,Manthani,Godavari Bank Road,18.666,79.69,rural road,2,1,2,bike-auto,collision,clear dangerous curve
+2021,Kamanpur,Kamanpur Cross Road,18.6112,79.3942,junction,2,1,2,truck-bike,collision,clear overspeeding
+2021,Kamanpur,Pannur Stage,18.6658,79.5225,highway,3,1,4,car-lorry,collision,foggy poor visibility
+2021,Kamanpur,Centenary Colony Gate,18.7052,79.6212,urban road,2,0,2,auto-bike,collision,clear lack of signage
+2021,Kamanpur,Rompikunta Bridge,18.6822,79.5452,highway,2,1,1,head-on,collision,rainy road engineering defect
+2021,Kamanpur,Nagaram Road Curve,18.6182,79.6222,rural road,1,0,1,bike-skid,clear,dangerous curve
+2021,Kamanpur,Ladnapur Curve,18.6752,79.5342,highway,2,1,2,truck-car,collision,cloudy lane violation
+2021,Kamanpur,Kamanpur-Manthani Road,18.6482,79.6712,highway,2,0,3,car-auto,collision,clear overspeeding
+2021,Kamanpur,Adavisomanpalli X Road,18.6852,79.7122,junction,4,1,5,lorry-car,collision,clear junction design issue
+2021,Kamanpur,Gunjapadugu Entrance,18.6145,79.6358,rural road,1,1,0,bike-skid,rainy,poor road condition
+2021,Kamanpur,Mallepalli Road,18.6322,79.5112,rural road,2,0,2,bike-bike,collision,clear dangerous curve
+2021,Kamanpur,SCCL Mining Area Rd,18.7122,79.5852,urban road,2,2,1,dumper-bike,collision,foggy poor lighting
+2021,Kamanpur,Kamanpur Main Bazaar,18.6108,79.3938,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2021,Kamanpur,Putti Road Junction,18.6412,79.6952,junction,2,0,2,auto-bike,collision,cloudy lack of signage
+2021,Kamanpur,Kalvacherla Stretch,18.5752,79.4422,highway,3,1,2,truck-lorry,collision,clear lane violation
+2021,Kamanpur,Sundilla Reservoir Rd,18.7212,79.6452,rural road,1,0,1,bike-skid,rainy,poor road condition
+2022,Srirampur,Srirampur X Road,18.5255,79.3142,junction,3,1,2,truck-car,collision,clear junction design issue
+2022,Srirampur,Rajiv Rahadari (Srirampur),18.521,79.311,highway,2,2,1,head-on,collision,clear overspeeding
+2022,Srirampur,Srirampur Colony Gate,18.518,79.3055,urban road,2,0,2,bike-auto,collision,cloudy poor lighting
+2022,Srirampur,Nagepalli Curve,18.534,79.325,highway,1,1,0,car-divider,hit,foggy poor visibility
+2022,Srirampur,Mothe Road Junction,18.541,79.3325,junction,2,0,3,auto-bike,collision,clear lack of signage
+2022,Srirampur,SCCL Shopping Complex Rd,18.5165,79.302,urban road,1,0,1,pedestrian,hit,clear road engineering defect
+2022,Srirampur,Srirampur Filter Bed Area,18.529,79.318,rural road,1,0,1,bike-skid,rainy,poor road condition
+2022,Srirampur,Gauri Shankar Temple Curve,18.512,79.298,urban road,2,1,1,bike-tractor,collision,clear dangerous curve
+2022,Srirampur,Peddapalli-Srirampur Link,18.5505,79.345,highway,3,1,4,truck-lorry,collision,clear lane violation
+2022,Srirampur,GM Office Road,18.5195,79.3075,urban road,2,0,2,car-bike,collision,cloudy poor lighting
+2022,Sultanabad,Sultanabad X Road,18.5285,79.3195,junction,3,1,2,truck-car,collision,clear junction design issue
+2022,Sultanabad,Katnapally Gate,18.561,79.352,highway,2,2,1,head-on,collision,clear overspeeding
+2022,Sultanabad,Poosala Curve,18.545,79.336,highway,1,0,2,car-divider,hit,cloudy dangerous curve
+2022,Sultanabad,Garrepalli Stage,18.498,79.284,junction,2,1,1,bike-auto,collision,foggy poor visibility
+2022,Sultanabad,Neerukulla Bridge,18.572,79.365,highway,2,1,2,lorry-bike,collision,clear road engineering defect
+2022,Sultanabad,Sultanabad Market Area,18.526,79.317,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2022,Sultanabad,Srirampur Link Road,18.521,79.311,highway,3,1,3,truck-auto,collision,rainy lane violation
+2022,Sultanabad,Kodurupaka Curve,18.585,79.378,rural road,1,1,0,bike-skid,clear,poor road condition
+2022,Dharmaram,Dharmaram X Road,18.6942,79.255,junction,3,1,2,truck-car,collision,clear junction design issue
+2022,Dharmaram,Dongatuniki Gate,18.7215,79.2885,highway,2,1,1,bike-lorry,collision,cloudy overspeeding
+2022,Dharmaram,Mallapur Curve,18.672,79.231,rural road,1,0,2,bike-skid,rainy,dangerous curve
+2022,Dharmaram,Bommareddypally Stage,18.711,79.274,junction,2,0,1,car-bike,collision,clear lack of signage
+2022,Dharmaram,Pathapally Bridge,18.6585,79.215,highway,2,2,1,head-on,collision,clear road engineering defect
+2022,Dharmaram,Dharmaram Main Market,18.693,79.2535,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2022,Dharmaram,Khila Vanaparthy Road,18.735,79.312,rural road,2,1,2,bike-tractor,collision,foggy poor visibility
+2022,Dharmaram,Sayampally Curve,18.6815,79.2445,rural road,1,1,0,car-divider,hit,rainy poor road condition
+2022,Odela,Odela X Road,18.4912,79.4125,junction,2,1,2,truck-car,collision,clear junction design issue
+2022,Odela,Kanagarthi Curve,18.514,79.445,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2022,Odela,Odela Railway Gate,18.4855,79.408,rural road,2,1,1,bike-auto,collision,clear poor lighting
+2022,Odela,Gumpula Stage,18.532,79.461,junction,3,0,4,auto-bike,collision,cloudy lack of signage
+2022,Odela,Pothkapally Road,18.475,79.385,rural road,2,1,2,head-on,collision,clear road engineering defect
+2022,Odela,Madaka Bridge Approach,18.502,79.432,rural road,1,0,2,car-divider,hit,foggy poor visibility
+2022,Odela,Kolanoor-Odela Link,18.468,79.372,rural road,2,1,1,bike-tractor,collision,clear overspeeding
+2022,Odela,Shanam Crossroads,18.525,79.453,junction,2,0,1,bike-bike,collision,rainy poor road condition
+2022,Palakurthy,Palakurthy X Road,18.6655,79.434,junction,2,1,2,truck-car,collision,clear junction design issue
+2022,Palakurthy,Basanthnagar Bridge,18.681,79.4525,highway,2,1,3,head-on,collision,clear road engineering defect
+2022,Palakurthy,Putta Konda Curve,18.642,79.418,highway,1,1,0,bike-skid,rainy,dangerous curve
+2022,Palakurthy,Kukkalagudur Stage,18.651,79.426,junction,3,0,4,auto-bike,collision,clear lack of signage
+2022,Palakurthy,Godavarikhani Link Road,18.702,79.465,highway,2,2,1,car-lorry,collision,foggy overspeeding
+2022,Palakurthy,Jakkapur Curve,18.625,79.405,rural road,1,0,1,bike-skid,clear,poor road condition
+2022,Palakurthy,Palakurthy Market Area,18.664,79.432,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2022,Palakurthy,Eligaid Crossroad,18.638,79.392,junction,2,1,2,bike-tractor,collision,clear lane violation
+2022,Julapalli,Julapalli X Road,18.6015,79.324,junction,2,1,2,truck-car,collision,clear junction design issue
+2022,Julapalli,Telukunta Curve,18.582,79.3455,rural road,1,1,0,bike-skid,rainy,dangerous curve
+2022,Julapalli,Kukkalagudur Road,18.618,79.311,rural road,2,0,2,bike-auto,collision,clear lane violation
+2022,Julapalli,Abbaiahpally Stage,18.6255,79.3325,junction,3,0,4,auto-bike,collision,cloudy lack of signage
+2022,Julapalli,Peddapalli-Julapalli Link,18.605,79.358,rural road,2,1,1,head-on,collision,foggy poor visibility
+2022,Julapalli,Wadkapur Curve,18.571,79.295,rural road,1,0,1,car-divider,hit,clear road engineering defect
+2022,Julapalli,Julapalli Main Market,18.603,79.322,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2022,Julapalli,Sultanabad Road Junction,18.595,79.338,junction,2,1,2,bike-tractor,collision,clear overspeeding
+2022,Eligaid,Eligaid X Road,18.528,79.281,junction,2,1,2,truck-car,collision,clear junction design issue
+2022,Eligaid,Dhoolikatta Curve,18.545,79.298,rural road,1,1,0,bike-skid,rainy,dangerous curve
+2022,Eligaid,Sultanabad-Eligaid Link,18.512,79.315,rural road,2,1,3,head-on,collision,clear overspeeding
+2022,Eligaid,Shivapally Bridge,18.552,79.274,rural road,2,0,2,bike-auto,collision,foggy poor visibility
+2022,Eligaid,Muppirithota Junction,18.536,79.302,junction,2,1,1,bike-bike,collision,clear lack of signage
+2022,Eligaid,Eligaid-Julapalli Road,18.521,79.265,rural road,1,0,1,car-divider,hit,cloudy road engineering defect
+2022,Eligaid,Lalapally Stage,18.54,79.325,rural road,2,0,2,bike-tractor,collision,clear lane violation
+2022,Eligaid,Narsapur Crossroad,18.518,79.291,junction,2,1,1,auto-bike,collision,rainy poor road condition
+2022,Ramagiri,Ramagiri Fort Road,18.583,79.492,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2022,Ramagiri,Centenary Colony X Road,18.612,79.525,junction,3,1,3,truck-car,collision,clear junction design issue
+2022,Ramagiri,Ladnapur Bridge,18.595,79.478,rural road,2,1,1,bike-lorry,collision,foggy poor visibility
+2022,Ramagiri,Begumpet Stage,18.567,79.505,rural road,2,0,2,bike-auto,collision,clear lack of signage
+2022,Ramagiri,Kalvacharla Curve,18.631,79.541,highway,2,2,2,head-on,collision,clear overspeeding
+2022,Ramagiri,Pannur Crossroad,18.552,79.462,junction,2,1,1,bike-bike,collision,cloudy poor lighting
+2022,Ramagiri,Mining Area Entry Gate,18.605,79.518,urban road,1,0,1,pedestrian,hit,clear lane violation
+2022,Ramagiri,Sabitham Waterfall Link,18.574,79.529,rural road,1,0,2,car-divider,hit,rainy road engineering defect
+2022,Anthergaon,Basanthnagar X Road,18.712,79.418,junction,3,1,3,truck-car,collision,clear junction design issue
+2022,Anthergaon,Anthergaon Railway Gate,18.731,79.435,rural road,2,1,1,bike-lorry,collision,foggy poor visibility
+2022,Anthergaon,Golliwada Curve,18.745,79.452,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2022,Anthergaon,Potial Road Junction,18.698,79.405,junction,2,1,1,bike-bike,collision,clear lack of signage
+2022,Anthergaon,Eklaspur Stage,18.721,79.392,rural road,2,1,2,head-on,collision,clear overspeeding
+2022,Anthergaon,Kundanpalli Road,18.705,79.441,rural road,1,0,1,car-divider,hit,cloudy road engineering defect
+2022,Anthergaon,Brahmanapally Road,18.685,79.381,rural road,2,0,2,bike-tractor,collision,clear poor lighting
+2022,Anthergaon,Murmur Bridge Approach,18.755,79.465,rural road,1,0,1,bike-skid,rainy,poor road condition
+2022,Mutharam,Mutharam Main Road Curve,18.452,79.514,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2022,Mutharam,Parupalli X Road,18.471,79.532,junction,2,1,2,bike-auto,collision,clear junction design issue
+2022,Mutharam,Odedu Bridge Approach,18.495,79.558,rural road,2,1,1,bike-tractor,collision,foggy poor visibility
+2022,Mutharam,Khammampally Stage,18.438,79.489,rural road,2,0,2,bike-bike,collision,clear poor lighting
+2022,Mutharam,Manthani-Mutharam Road,18.465,79.525,rural road,2,2,1,head-on,collision,clear overspeeding
+2022,Mutharam,Potharam Junction,18.421,79.475,junction,2,0,1,auto-bike,collision,cloudy lack of signage
+2022,Mutharam,Mydambanda Curve,18.482,79.543,rural road,1,0,2,car-divider,hit,rainy road engineering defect
+2022,Mutharam,Ladnapur Link Road,18.441,79.502,rural road,2,1,1,bike-tractor,collision,clear poor road condition
+2022,Ramagundam,Rajiv Rahadari (NH-63),18.751,79.521,highway,3,2,3,truck-car,collision,clear overspeeding
+2022,Ramagundam,Godavarikhani Main Chowrasta,18.7535,79.486,junction,2,0,4,auto-bike,collision,clear junction design issue
+2022,Ramagundam,NTPC Main Road (SH-1),18.741,79.511,highway,2,1,2,head-on,collision,cloudy lane violation
+2022,Ramagundam,FCI Gate No. 1,18.7705,79.4915,junction,3,1,5,lorry-auto,collision,clear lack of signage
+2022,Ramagundam,Medipalli Open Cast Road,18.7195,79.5325,rural road,2,1,1,dumper-bike,collision,foggy poor visibility
+2022,Ramagundam,8 Incline Colony Entrance,18.783,79.464,urban road,1,0,2,bike-skid,rainy,poor road condition
+2022,Ramagundam,GM Office Junction,18.7575,79.4785,junction,2,0,3,car-bike,collision,clear junction design issue
+2022,Ramagundam,Janagaon Bypass Road,18.7095,79.447,highway,2,1,2,rear-end,collision,clear overspeeding
+2022,Ramagundam,Laxmipuram Crossing,18.7452,79.5145,urban road,1,1,0,pedestrian,hit,cloudy poor lighting
+2022,Ramagundam,Malkapur Industrial Stretch,18.7435,79.431,rural road,4,2,4,truck-lorry,collision,clear road engineering defect
+2022,Ramagundam,Vittal Nagar Curve,18.7495,79.467,urban road,2,0,2,bike-auto,collision,rainy dangerous curve
+2022,Ramagundam,Kundanpalli Highway Cut,18.7695,79.534,junction,3,1,3,car-truck,collision,clear lack of signage
+2022,Ramagundam,Rajiv Rahadari (Near TTS),18.734,79.517,highway,2,1,1,head-on,collision,clear lane violation
+2022,Ramagundam,Malyalapalli Bridge Road,18.7082,79.4915,rural road,1,0,1,bike-skid,clear,poor road condition
+2022,Ramagundam,Markandeya Colony Arch,18.7572,79.461,urban road,2,0,2,car-auto,collision,clear junction design issue
+2022,Ramagundam,7 Incline Shopping Line,18.7905,79.4595,urban road,1,1,0,pedestrian,hit,cloudy lack of signage
+2022,Ramagundam,Housing Board Bypass,18.7425,79.5015,urban road,2,0,2,bike-auto,collision,clear overspeeding
+2022,Ramagundam,Ramesh Nagar Haul Road,18.778,79.4585,rural road,2,1,1,truck-bike,collision,foggy poor visibility
+2022,Ramagundam,Prasanth Nagar X Road,18.7705,79.484,junction,2,0,3,car-bike,collision,clear road engineering defect
+2022,Ramagundam,Subash Nagar Market Road,18.7672,79.488,urban road,1,0,1,bike-skid,rainy,poor road condition
+2022,Ramagundam,Gouthami Nagar Main Gate,18.7485,79.5115,urban road,2,0,2,car-auto,collision,clear lack of signage
+2022,Ramagundam,Kalyan Nagar Bypass,18.7442,79.5085,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2022,Ramagundam,Shanti Nagar Main Curve,18.7645,79.4755,urban road,2,1,2,head-on,collision,clear dangerous curve
+2022,Ramagundam,Maredupalli Outer Link,18.7285,79.5385,rural road,2,0,2,bike-auto,collision,cloudy lane violation
+2022,Ramagundam,Bhagat Singh Nagar Cut,18.7625,79.4705,junction,2,0,1,car-bike,collision,clear road engineering defect
+2022,Ramagundam,Vocational College Stretch,18.7732,79.4735,urban road,2,1,1,truck-bike,collision,clear overspeeding
+2022,Ramagundam,NTPC Power House Road,18.7352,79.5092,urban road,1,0,1,bike-skid,foggy,poor visibility
+2022,Ramagundam,Annapurna Colony Entrance,18.7562,79.4925,urban road,2,0,2,auto-bike,collision,clear junction design issue
+2022,Ramagundam,Singareni Hospital X Road,18.7542,79.4812,junction,3,1,4,truck-car,collision,clear lane violation
+2022,Ramagundam,Allur Village High Road,18.7972,79.4375,rural road,2,1,1,tractor-bike,collision,rainy poor road condition
+2022,Ramagundam,Jyothi Nagar Corner,18.7482,79.5045,urban road,1,0,1,bike-skid,clear,dangerous curve
+2022,Ramagundam,MG Road Commercial Link,18.7545,79.4875,urban road,2,0,2,car-auto,collision,cloudy poor lighting
+2022,Ramagundam,GDK 9 Incline Approach,18.7932,79.4635,rural road,2,1,2,bike-truck,collision,clear overspeeding
+2022,Ramagundam,Fertilizer City North,18.7735,79.4985,urban road,1,0,1,pedestrian,hit,clear lack of signage
+2022,Ramagundam,Godavarikhani Bypass Exit,18.7645,79.4655,highway,3,2,3,lorry-car,collision,clear road engineering defect
+2022,Peddapalli,Andugulapalli X Road,18.637,79.393,junction,3,2,4,truck-car,collision,clear overspeeding
+2022,Peddapalli,Basanthnagar Curve,18.684,79.415,highway,2,1,2,car-lorry,collision,foggy dangerous curve
+2022,Peddapalli,Peddapalli-Sultanabad Rd,18.582,79.338,highway,2,1,1,head-on,collision,clear lane violation
+2022,Peddapalli,Rangampalli Junction,18.6045,79.365,junction,2,0,3,auto-bike,collision,cloudy junction design issue
+2022,Peddapalli,Sabitham Village Road,18.627,79.401,rural road,1,0,1,bike-skid,rainy,poor road condition
+2022,Peddapalli,Railway Station Rd,18.6185,79.387,urban road,2,0,2,bike-auto,collision,clear lack of signage
+2022,Peddapalli,Appannapet Canal Bend,18.6418,79.3935,rural road,1,1,0,bike-skid,clear,road engineering defect
+2022,Peddapalli,Raghavapur Village Ext,18.5865,79.342,highway,2,1,2,pedestrian,hit,clear poor lighting
+2022,Peddapalli,MRO Office Junction,18.614,79.37,junction,2,0,2,car-bike,collision,cloudy junction design issue
+2022,Peddapalli,Peddakalvala High Road,18.5735,79.327,highway,3,2,3,lorry-car,collision,clear overspeeding
+2022,Peddapalli,Brahmanpalli Road,18.633,79.356,rural road,1,0,1,bike-skid,rainy,poor road condition
+2022,Peddapalli,Palthem Bypass,18.653,79.4225,highway,2,1,1,head-on,collision,clear lane violation
+2022,Peddapalli,Bus Stand Entrance,18.618,79.3775,urban road,2,0,3,auto-bike,collision,clear lack of signage
+2022,Peddapalli,Goureddypalli Bridge,18.592,79.333,highway,2,1,2,rear-end,collision,foggy poor visibility
+2022,Peddapalli,Godavari Road Jn,18.622,79.389,junction,2,0,2,bike-auto,collision,clear road engineering defect
+2022,Peddapalli,Kukkalagudur Road,18.6562,79.407,rural road,1,1,0,bike-skid,clear,dangerous curve
+2022,Peddapalli,Subash Nagar Market,18.621,79.375,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2022,Peddapalli,Maredugonda Rural Track,18.566,79.3165,rural road,2,0,2,bike-bike,collision,cloudy road engineering defect
+2022,Peddapalli,Basanthnagar Colony Ent,18.679,79.4165,urban road,2,0,1,car-bike,collision,clear lane violation
+2022,Peddapalli,Khila Peddapalli Arch,18.627,79.3815,urban road,2,0,2,bike-auto,collision,clear junction design issue
+2022,Peddapalli,Nimmapalli Hill Base,18.596,79.3528,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2022,Peddapalli,Karimnagar Highway Link,18.552,79.2965,highway,3,1,3,truck-lorry,collision,clear overspeeding
+2022,Peddapalli,Peddapalli Court Road,18.615,79.3705,urban road,2,0,1,auto-bike,collision,clear lack of signage
+2022,Peddapalli,Bondampalli Forest Cut,18.6358,79.4335,rural road,2,1,2,head-on,collision,foggy poor visibility
+2022,Peddapalli,Church Road Arch,18.6168,79.3808,urban road,1,0,1,pedestrian,hit,rainy poor road condition
+2022,Peddapalli,Mallial Stream Link,18.6628,79.4468,rural road,1,0,1,bike-skid,clear,road engineering defect
+2022,Peddapalli,Mancherial Road Exit,18.612,79.3838,highway,2,1,1,car-lorry,collision,clear overspeeding
+2022,Peddapalli,Vaddala Corner,18.6288,79.3968,urban road,2,0,2,bike-auto,collision,cloudy junction design issue
+2022,Peddapalli,Market Yard Outer Link,18.6088,79.3728,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2022,Peddapalli,Raghavapur Toll Point,18.5865,79.3438,highway,2,0,2,rear-end,collision,clear lane violation
+2022,Manthani,Manthani-Kataram-Mutharam Junction,18.6482,79.6715,junction,2,1,1,bike-tractor,collision,clear junction design issue
+2022,Manthani,Gangapuri Road,18.642,79.661,rural road,1,1,0,bike-skid,clear,overspeeding
+2022,Manthani,Old Petrol Pump Area,18.6515,79.673,urban road,2,0,2,bike-auto,collision,clear lack of signage
+2022,Manthani,Boinpeta-Gangapuri Stretch,18.638,79.655,rural road,2,1,1,bike-tractor,collision,cloudy overspeeding
+2022,Manthani,Soorayyapally Junction,18.658,79.692,junction,3,0,4,car-auto,collision,clear junction design issue
+2022,Manthani,Manthani-Peddapalli Highway,18.6325,79.6055,highway,2,1,2,head-on,collision,rainy dangerous curve
+2022,Manthani,Godavari Bridge Approach,18.6648,79.6885,highway,1,1,0,truck-skid,foggy,poor visibility
+2022,Manthani,Eklaspur Main Road,18.6392,79.6605,rural road,1,0,1,bike-skid,clear,poor road condition
+2022,Manthani,Gunjapadugu Cross Road,18.6145,79.6358,junction,2,0,3,auto-bike,collision,cloudy junction design issue
+2022,Manthani,Bhatpally Road,18.6255,79.6425,rural road,2,1,1,tractor-bike,collision,clear poor road condition
+2022,Manthani,Adavisomanpalli Junction,18.6855,79.7125,highway,3,1,3,truck-car,collision,clear overspeeding
+2022,Manthani,Govt Hospital Road,18.6445,79.6675,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2022,Manthani,Villochanda Bridge,18.6015,79.6125,highway,2,1,2,head-on,collision,rainy road engineering defect
+2022,Manthani,Puttapaka Curve,18.6415,79.6955,rural road,1,0,1,bike-skid,clear,dangerous curve
+2022,Manthani,Sripada Sagar Road,18.6925,79.7455,highway,2,1,1,car-lorry,collision,clear lane violation
+2022,Manthani,Kuchirajupalli Road,18.5955,79.5985,rural road,1,1,0,bike-skid,cloudy,dangerous curve
+2022,Manthani,Nagaram Village Link,18.6185,79.6225,rural road,2,0,2,bike-bike,collision,rainy poor road condition
+2022,Manthani,Manthani Bus Stand,18.65,79.6725,junction,2,0,2,auto-bike,collision,clear lack of signage
+2022,Manthani,Mallaram Forest Stretch,18.6115,79.5855,highway,2,1,2,lorry-car,collision,foggy poor visibility
+2022,Manthani,Centenary Colony Link,18.7055,79.6215,rural road,1,0,1,bike-skid,cloudy,poor road condition
+2022,Kamanpur,Kamanpur Cross Road,18.611,79.394,junction,3,1,2,truck-car,collision,clear junction design issue
+2022,Kamanpur,Pannur Stage,18.6655,79.522,highway,2,1,3,car-lorry,collision,clear overspeeding
+2022,Kamanpur,Centenary Colony Gate,18.705,79.621,urban road,2,0,2,auto-bike,collision,clear lack of signage
+2022,Kamanpur,Rompikunta Bridge,18.682,79.545,highway,2,1,1,head-on,collision,rainy road engineering defect
+2022,Kamanpur,Nagaram Road Curve,18.618,79.622,rural road,1,0,1,bike-skid,clear,dangerous curve
+2022,Kamanpur,Ladnapur Curve,18.675,79.534,highway,2,1,2,truck-car,collision,cloudy lane violation
+2022,Kamanpur,Kamanpur-Manthani Road,18.648,79.671,highway,2,0,2,car-auto,collision,clear overspeeding
+2022,Kamanpur,Adavisomanpalli X Road,18.685,79.712,junction,4,2,4,lorry-bus,collision,foggy poor visibility
+2022,Kamanpur,Gunjapadugu Entrance,18.6142,79.6355,rural road,1,1,0,bike-skid,rainy,poor road condition
+2022,Kamanpur,Mallepalli Road,18.632,79.511,rural road,2,0,1,bike-bike,collision,clear dangerous curve
+2022,Kamanpur,SCCL Mining Area Rd,18.712,79.585,urban road,2,1,1,dumper-bike,collision,clear poor lighting
+2022,Kamanpur,Kamanpur Main Bazaar,18.6105,79.3935,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2022,Kamanpur,Putti Road Junction,18.641,79.695,junction,2,0,2,auto-bike,collision,cloudy junction design issue
+2022,Kamanpur,Kalvacherla Stretch,18.575,79.442,highway,3,1,2,truck-lorry,collision,clear lane violation
+2022,Kamanpur,Sundilla Reservoir Rd,18.721,79.645,rural road,1,0,1,bike-skid,rainy,poor road condition
+2023,Srirampur,Srirampur X Road,18.5255,79.3142,junction,3,1,3,truck-car,collision,clear junction design issue
+2023,Srirampur,Rajiv Rahadari (Srirampur),18.521,79.311,highway,2,1,2,car-lorry,collision,clear overspeeding
+2023,Srirampur,Srirampur Colony Gate,18.518,79.3055,urban road,2,0,1,bike-auto,collision,cloudy poor lighting
+2023,Srirampur,Nagepalli Curve,18.534,79.325,highway,1,0,2,bike-skid,rainy,dangerous curve
+2023,Srirampur,Mothe Road Junction,18.541,79.3325,junction,2,1,2,truck-bike,collision,clear lack of signage
+2023,Srirampur,SCCL Shopping Complex Rd,18.5165,79.302,urban road,1,0,1,pedestrian,hit,clear road engineering defect
+2023,Srirampur,Srirampur Filter Bed Area,18.529,79.318,rural road,2,0,2,bike-bike,collision,clear poor road condition
+2023,Srirampur,Gauri Shankar Temple Curve,18.512,79.298,urban road,1,0,1,car-divider,hit,foggy poor visibility
+2023,Srirampur,Peddapalli-Srirampur Link,18.5505,79.345,highway,2,1,1,head-on,collision,clear lane violation
+2023,Srirampur,GM Office Road,18.5195,79.3075,urban road,2,0,2,auto-bike,collision,cloudy poor lighting
+2023,Sultanabad,Sultanabad X Road,18.5285,79.3195,junction,2,1,2,bike-lorry,collision,clear junction design issue
+2023,Sultanabad,Katnapally Gate,18.561,79.352,highway,3,1,4,truck-car,collision,cloudy overspeeding
+2023,Sultanabad,Poosala Curve,18.545,79.336,highway,1,0,1,car-divider,hit,clear dangerous curve
+2023,Sultanabad,Garrepalli Stage,18.498,79.284,junction,2,1,1,bike-auto,collision,foggy poor visibility
+2023,Sultanabad,Neerukulla Bridge,18.572,79.365,highway,2,2,2,head-on,collision,rainy road engineering defect
+2023,Sultanabad,Sultanabad Market Area,18.526,79.317,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2023,Sultanabad,Srirampur Link Road,18.521,79.311,highway,2,1,2,car-lorry,collision,clear lane violation
+2023,Sultanabad,Kodurupaka Curve,18.585,79.378,rural road,1,0,1,bike-skid,cloudy,poor road condition
+2023,Dharmaram,Dharmaram X Road,18.6942,79.255,junction,2,1,2,bike-auto,collision,clear junction design issue
+2023,Dharmaram,Dongatuniki Gate,18.7215,79.2885,highway,3,1,3,truck-car,collision,cloudy overspeeding
+2023,Dharmaram,Mallapur Curve,18.672,79.231,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2023,Dharmaram,Bommareddypally Stage,18.711,79.274,junction,2,0,2,auto-bike,collision,clear lack of signage
+2023,Dharmaram,Pathapally Bridge,18.6585,79.215,highway,2,1,1,head-on,collision,foggy road engineering defect
+2023,Dharmaram,Dharmaram Main Market,18.693,79.2535,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2023,Dharmaram,Khila Vanaparthy Road,18.735,79.312,rural road,2,1,1,bike-tractor,collision,clear lane violation
+2023,Dharmaram,Sayampally Curve,18.6815,79.2445,rural road,1,0,1,bike-skid,rainy,poor road condition
+2023,Odela,Odela X Road,18.4912,79.4125,junction,2,1,2,bike-auto,collision,clear junction design issue
+2023,Odela,Kanagarthi Curve,18.514,79.445,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2023,Odela,Odela Railway Gate,18.4855,79.408,rural road,3,1,3,truck-car,collision,foggy poor visibility
+2023,Odela,Gumpula Stage,18.532,79.461,junction,2,0,2,auto-bike,collision,clear lack of signage
+2023,Odela,Pothkapally Road,18.475,79.385,rural road,2,1,1,head-on,collision,clear road engineering defect
+2023,Odela,Madaka Bridge Approach,18.502,79.432,rural road,1,0,1,car-divider,hit,cloudy poor road condition
+2023,Odela,Kolanoor-Odela Link,18.468,79.372,rural road,2,2,1,bike-tractor,collision,clear overspeeding
+2023,Odela,Shanam Crossroads,18.525,79.453,junction,2,0,2,bike-bike,collision,clear poor lighting
+2023,Palakurthy,Palakurthy X Road,18.6655,79.434,junction,2,1,2,bike-auto,collision,clear junction design issue
+2023,Palakurthy,Basanthnagar Bridge,18.681,79.4525,highway,3,1,4,truck-car,collision,cloudy overspeeding
+2023,Palakurthy,Putta Konda Curve,18.642,79.418,highway,1,0,1,car-divider,hit,rainy dangerous curve
+2023,Palakurthy,Kukkalagudur Stage,18.651,79.426,junction,2,1,1,bike-auto,collision,foggy poor visibility
+2023,Palakurthy,Godavarikhani Link Road,18.702,79.465,highway,2,2,2,head-on,collision,clear road engineering defect
+2023,Palakurthy,Palakurthy Market Area,18.664,79.432,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2023,Palakurthy,Eligaid Crossroad,18.638,79.392,junction,2,1,2,car-lorry,collision,clear lane violation
+2023,Palakurthy,Jakkapur Curve,18.625,79.405,rural road,1,0,1,bike-skid,cloudy,poor road condition
+2023,Julapalli,Julapalli X Road,18.6015,79.324,junction,2,1,2,bike-auto,collision,clear junction design issue
+2023,Julapalli,Telukunta Curve,18.582,79.3455,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2023,Julapalli,Kukkalagudur Road,18.618,79.311,rural road,2,1,1,bike-tractor,collision,clear overspeeding
+2023,Julapalli,Abbaiahpally Stage,18.6255,79.3325,junction,2,0,2,car-bike,collision,cloudy lack of signage
+2023,Julapalli,Peddapalli-Julapalli Link,18.605,79.358,rural road,2,1,3,head-on,collision,foggy poor visibility
+2023,Julapalli,Wadkapur Curve,18.571,79.295,rural road,1,0,2,car-divider,hit,clear road engineering defect
+2023,Julapalli,Julapalli Main Market,18.603,79.322,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2023,Julapalli,Sultanabad Road Junction,18.595,79.338,junction,2,1,1,auto-bike,collision,clear lane violation
+2023,Eligaid,Eligaid X Road,18.528,79.281,junction,2,1,2,bike-auto,collision,clear junction design issue
+2023,Eligaid,Dhoolikatta Curve,18.545,79.298,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2023,Eligaid,Sultanabad-Eligaid Link,18.512,79.315,rural road,2,1,2,head-on,collision,clear overspeeding
+2023,Eligaid,Shivapally Bridge,18.552,79.274,rural road,2,0,2,bike-tractor,collision,foggy poor visibility
+2023,Eligaid,Muppirithota Junction,18.536,79.302,junction,2,1,1,bike-bike,collision,cloudy lack of signage
+2023,Eligaid,Eligaid-Julapalli Road,18.521,79.265,rural road,1,0,2,car-divider,hit,clear road engineering defect
+2023,Eligaid,Lalapally Stage,18.54,79.325,rural road,2,1,1,bike-auto,collision,clear poor lighting
+2023,Eligaid,Narsapur Crossroad,18.518,79.291,junction,2,0,2,bike-tractor,collision,rainy poor road condition
+2023,Ramagiri,Ramagiri Fort Road,18.583,79.492,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2023,Ramagiri,Centenary Colony X Road,18.612,79.525,junction,3,1,3,truck-car,collision,clear junction design issue
+2023,Ramagiri,Ladnapur Bridge,18.595,79.478,rural road,2,1,1,bike-lorry,collision,foggy poor visibility
+2023,Ramagiri,Begumpet Stage,18.567,79.505,rural road,2,0,2,bike-auto,collision,clear lack of signage
+2023,Ramagiri,Kalvacharla Curve,18.631,79.541,highway,2,2,2,head-on,collision,clear overspeeding
+2023,Ramagiri,Pannur Crossroad,18.552,79.462,junction,2,1,1,bike-bike,collision,cloudy poor lighting
+2023,Ramagiri,Mining Area Entry Gate,18.605,79.518,urban road,1,0,1,pedestrian,hit,clear lane violation
+2023,Ramagiri,Sabitham Waterfall Link,18.574,79.529,rural road,1,0,2,car-divider,hit,rainy road engineering defect
+2023,Anthergaon,Basanthnagar X Road,18.712,79.418,junction,2,1,2,truck-car,collision,clear junction design issue
+2023,Anthergaon,Anthergaon Railway Gate,18.731,79.435,rural road,2,0,1,bike-auto,collision,foggy poor visibility
+2023,Anthergaon,Golliwada Curve,18.745,79.452,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2023,Anthergaon,Potial Road Junction,18.698,79.405,junction,2,1,1,bike-bike,collision,clear lack of signage
+2023,Anthergaon,Eklaspur Stage,18.721,79.392,rural road,2,1,2,head-on,collision,clear overspeeding
+2023,Anthergaon,Kundanpalli Road,18.705,79.441,rural road,1,0,2,car-divider,hit,cloudy road engineering defect
+2023,Anthergaon,Brahmanapally Road,18.685,79.381,rural road,2,0,1,bike-tractor,collision,clear poor lighting
+2023,Anthergaon,Murmur Bridge Approach,18.755,79.465,rural road,1,0,1,auto-skid,rainy,poor road condition
+2023,Mutharam,Mutharam Main Road Curve,18.452,79.514,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2023,Mutharam,Parupalli X Road,18.471,79.532,junction,2,1,2,bike-auto,collision,clear junction design issue
+2023,Mutharam,Odedu Bridge Approach,18.495,79.558,rural road,2,1,1,bike-tractor,collision,foggy poor visibility
+2023,Mutharam,Khammampally Stage,18.438,79.489,rural road,2,0,2,bike-bike,collision,clear poor lighting
+2023,Mutharam,Manthani-Mutharam Road,18.465,79.525,rural road,3,2,2,head-on,collision,clear overspeeding
+2023,Mutharam,Potharam Junction,18.421,79.475,junction,2,0,1,auto-bike,collision,cloudy lack of signage
+2023,Mutharam,Mydambanda Curve,18.482,79.543,rural road,1,0,2,car-divider,hit,rainy road engineering defect
+2023,Mutharam,Ladnapur Link Road,18.441,79.502,rural road,2,1,1,bike-tractor,collision,clear poor road condition
+2023,Ramagundam,Medipalli Junction Area,18.724,79.5265,junction,3,2,4,truck-car,collision,clear overspeeding
+2023,Ramagundam,Godavarikhani Model Town,18.755,79.487,urban road,2,0,2,bike-auto,collision,rainy poor road condition
+2023,Ramagundam,NTPC North Gate Road,18.743,79.513,highway,2,1,2,head-on,collision,clear lane violation
+2023,Ramagundam,Fertilizer City Main Circle,18.773,79.499,junction,4,2,5,lorry-car,collision,cloudy junction design issue
+2023,Ramagundam,Janagaon High Curve,18.7105,79.4445,highway,2,1,2,truck-bike,collision,foggy dangerous curve
+2023,Ramagundam,8 Incline Crossings,18.7855,79.4685,junction,3,1,3,auto-auto,collision,clear lack of signage
+2023,Ramagundam,Malkapur Highway Point,18.743,79.432,highway,3,2,2,truck-lorry,collision,clear overspeeding
+2023,Ramagundam,Godavarikhani New Bridge,18.807,79.4535,highway,2,1,3,rear-end,collision,rainy poor visibility
+2023,Ramagundam,Vittal Nagar Colony Road,18.7498,79.4655,urban road,1,0,1,bike-skid,clear,road engineering defect
+2023,Ramagundam,Laxmipuram Main Junction,18.7448,79.514,junction,2,0,4,car-bike,collision,cloudy junction design issue
+2023,Ramagundam,Rajiv Rahadari km 190,18.7485,79.5205,highway,2,1,1,head-on,collision,clear overspeeding
+2023,Ramagundam,Kundanpalli Outer Circle,18.7678,79.535,junction,2,1,2,bike-auto,collision,foggy lack of signage
+2023,Ramagundam,Malyalapalli Main Road,18.7088,79.4925,rural road,2,1,1,bike-bike,collision,clear dangerous curve
+2023,Ramagundam,Markandeya Colony Gate 2,18.7565,79.4615,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2023,Ramagundam,7 Incline Hospital Turn,18.791,79.4535,urban road,2,0,2,car-bike,collision,rainy poor road condition
+2023,Ramagundam,FCI South Entrance,18.7668,79.501,junction,3,1,4,truck-car,collision,clear road engineering defect
+2023,Ramagundam,Housing Board Sector 3,18.7408,79.501,urban road,1,0,1,bike-skid,clear,poor road condition
+2023,Ramagundam,Ramesh Nagar Internal Link,18.7775,79.458,rural road,2,1,0,truck-bike,collision,foggy poor visibility
+2023,Ramagundam,Prasanth Nagar High Street,18.77,79.4845,urban road,2,0,2,auto-bike,collision,clear lane violation
+2023,Ramagundam,Subash Nagar Crossing B,18.7665,79.489,junction,2,0,2,car-bike,collision,clear junction design issue
+2023,Ramagundam,Gouthami Nagar North Arch,18.748,79.511,urban road,1,0,1,bike-skid,rainy,poor road condition
+2023,Ramagundam,Kalyan Nagar Main Junction,18.7438,79.508,junction,3,1,3,auto-car,collision,clear lack of signage
+2023,Ramagundam,Shanti Nagar Park Road,18.7648,79.475,urban road,1,1,0,pedestrian,hit,cloudy poor lighting
+2023,Ramagundam,Maredupalli Rural Link,18.7278,79.539,rural road,2,1,1,bike-auto,collision,clear overspeeding
+2023,Ramagundam,Bhagat Singh Nagar Sector 1,18.7618,79.4695,urban road,1,0,1,bike-skid,clear,road engineering defect
+2023,Ramagundam,Vocational College Main Road,18.7728,79.473,urban road,2,0,2,car-bike,collision,clear lane violation
+2023,Ramagundam,NTPC TTS Main Gate,18.7358,79.51,junction,3,1,2,truck-car,collision,clear overspeeding
+2023,Ramagundam,Annapurna Colony High Street,18.7558,79.492,urban road,1,0,1,pedestrian,hit,cloudy lack of signage
+2023,Ramagundam,Singareni Staff Road B,18.7538,79.4815,urban road,2,0,2,bike-bike,collision,rainy poor road condition
+2023,Ramagundam,Allur High Road Curve,18.7968,79.437,rural road,2,1,2,tractor-bike,collision,foggy dangerous curve
+2023,Ramagundam,Jyothi Nagar High School,18.7478,79.504,urban road,1,1,0,pedestrian,hit,clear overspeeding
+2023,Ramagundam,MG Road South Extension,18.754,79.487,urban road,2,0,2,car-auto,collision,cloudy road engineering defect
+2023,Ramagundam,GDK 9 Incline Slope Road,18.7938,79.464,rural road,1,0,1,bike-skid,clear,dangerous curve
+2023,Ramagundam,Fertilizer City East Gate,18.774,79.499,junction,2,0,2,auto-bike,collision,clear junction design issue
+2023,Ramagundam,GM Office Front Arch,18.758,79.479,junction,2,1,2,car-bike,collision,clear overspeeding
+2023,Peddapalli,Andugulapalli Junction B,18.6385,79.3945,junction,2,1,2,car-lorry,collision,clear overspeeding
+2023,Peddapalli,Basanthnagar Bridge,18.686,79.4165,highway,3,1,4,truck-auto,collision,foggy poor visibility
+2023,Peddapalli,Peddapalli-Sultanabad Rd,18.5805,79.3365,highway,2,0,2,head-on,collision,rainy dangerous curve
+2023,Peddapalli,Rangampalli Inner Circle,18.6028,79.3635,urban road,2,0,1,bike-auto,collision,clear junction design issue
+2023,Peddapalli,Sabitham Forest Entry,18.6255,79.3995,rural road,1,1,0,bike-skid,clear,poor road condition
+2023,Peddapalli,Railway Overbridge (ROB),18.6205,79.3895,highway,2,0,2,rear-end,collision,cloudy poor lighting
+2023,Peddapalli,Appannapet Canal Point,18.6395,79.3915,rural road,1,0,1,bike-skid,clear,road engineering defect
+2023,Peddapalli,Raghavapur Bridge North,18.5845,79.3395,highway,2,1,1,truck-bike,collision,foggy poor visibility
+2023,Peddapalli,MRO Office Junction C,18.6152,79.3712,junction,2,0,3,auto-bike,collision,clear lack of signage
+2023,Peddapalli,Peddakalvala High Rd D,18.5715,79.3245,highway,3,2,2,lorry-car,collision,clear overspeeding
+2023,Peddapalli,Brahmanpalli Arch B,18.6305,79.3535,rural road,1,0,1,bike-skid,rainy,poor road condition
+2023,Peddapalli,Palthem Bypass B,18.6505,79.4205,highway,2,1,2,head-on,collision,clear dangerous curve
+2023,Peddapalli,Bus Stand Outer Circle,18.6155,79.3752,urban road,2,0,2,auto-bike,collision,clear junction design issue
+2023,Peddapalli,Goureddypalli Turn C,18.5895,79.3305,highway,2,1,1,car-lorry,collision,foggy poor visibility
+2023,Peddapalli,Godavari Road Stretch C,18.6195,79.3865,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2023,Peddapalli,Kukkalagudur Rd C,18.6535,79.4045,rural road,2,0,2,bike-auto,collision,cloudy lack of signage
+2023,Peddapalli,Subash Nagar 5th Line,18.6225,79.3735,urban road,1,0,1,bike-skid,rainy,road engineering defect
+2023,Peddapalli,Maredugonda High Rd C,18.5635,79.3142,rural road,2,1,1,bike-bike,collision,clear dangerous curve
+2023,Peddapalli,Basanthnagar Colony Rd C,18.6765,79.4142,urban road,2,0,1,car-bike,collision,clear lane violation
+2023,Peddapalli,Khila Peddapalli Gate B,18.6248,79.3792,urban road,2,0,2,bike-auto,collision,clear junction design issue
+2023,Peddapalli,Nimmapalli Hill Base C,18.5938,79.3505,rural road,1,1,0,bike-skid,clear,poor road condition
+2023,Peddapalli,Karimnagar Hwy km 165,18.5495,79.2942,highway,3,1,3,truck-lorry,collision,clear overspeeding
+2023,Peddapalli,Peddapalli Court Rd C,18.6128,79.3682,urban road,2,0,1,auto-bike,collision,clear lack of signage
+2023,Peddapalli,Bondampalli Forest Rd B,18.6335,79.4312,rural road,2,1,2,head-on,collision,foggy poor visibility
+2023,Peddapalli,Church Road Arch B,18.6145,79.3785,urban road,1,1,0,pedestrian,hit,rainy road engineering defect
+2023,Peddapalli,Mallial Stream Link B,18.6605,79.4445,rural road,1,0,1,bike-skid,clear,poor road condition
+2023,Peddapalli,Mancherial Hwy Bypass C,18.6098,79.3815,highway,2,1,1,car-lorry,collision,clear overspeeding
+2023,Peddapalli,Vaddala Main Street C,18.6265,79.3945,urban road,2,0,2,bike-auto,collision,cloudy junction design issue
+2023,Peddapalli,Market Yard Outer Gate C,18.6065,79.3705,urban road,1,0,2,pedestrian,hit,clear poor lighting
+2023,Peddapalli,Raghavapur Toll Booth C,18.5842,79.3415,highway,2,0,2,rear-end,collision,clear lane violation
+2023,Manthani,Adavi Somanpalli (Tree Bend),18.6855,79.7125,highway,1,0,15,bus-tree,collision,clear road engineering defect
+2023,Manthani,Manthani-Kataram Main Rd,18.665,79.689,highway,2,1,2,car-lorry,collision,clear overspeeding
+2023,Manthani,Gunjapadugu X Road,18.615,79.636,junction,2,0,3,auto-bike,collision,clear junction design issue
+2023,Manthani,Battupalli Village Link,18.626,79.643,rural road,2,1,1,bike-tractor,collision,clear poor lighting
+2023,Manthani,Eklaspur Curve,18.639,79.66,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2023,Manthani,Manthani Town Circle,18.649,79.672,urban road,2,0,2,car-bike,collision,clear lack of signage
+2023,Manthani,Godavari Bridge Approach,18.6648,79.6885,highway,2,1,1,head-on,collision,foggy poor visibility
+2023,Manthani,Govt Hospital Area,18.6445,79.6675,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2023,Manthani,Villochanda High Road,18.602,79.613,highway,2,2,2,truck-car,collision,rainy road engineering defect
+2023,Manthani,Puttapaka Road,18.642,79.696,rural road,1,0,2,bike-skid,clear,poor road condition
+2023,Manthani,Peddapalli-Manthani Hwy,18.633,79.606,highway,2,1,2,car-lorry,collision,clear overspeeding
+2023,Manthani,KHPS Area Entrance,18.656,79.682,urban road,1,0,1,pedestrian,hit,clear lack of signage
+2023,Manthani,Old Manthani Bazaar,18.651,79.674,urban road,2,0,2,auto-bike,collision,cloudy junction design issue
+2023,Manthani,Sripada Sagar Project Rd,18.693,79.746,highway,3,1,4,truck-auto,collision,clear lane violation
+2023,Manthani,Kuchirajupalli Curve,18.596,79.599,rural road,1,1,0,bike-skid,clear,dangerous curve
+2023,Manthani,Civil Courts Road,18.647,79.671,urban road,2,0,1,bike-bike,collision,clear road engineering defect
+2023,Manthani,Nagaram Village Link,18.619,79.623,rural road,1,0,1,bike-skid,rainy,poor road condition
+2023,Manthani,Manthani Bus Stand Jn,18.65,79.672,junction,2,0,3,auto-bike,collision,clear lack of signage
+2023,Manthani,Mallaram Forest Stretch,18.612,79.586,highway,2,1,1,head-on,collision,foggy poor visibility
+2023,Manthani,Centenary Colony Road,18.706,79.622,rural road,1,0,1,bike-skid,cloudy,poor road condition
+2023,Kamanpur,Kamanpur Cross Road,18.611,79.394,junction,2,1,2,truck-bike,collision,clear junction design issue
+2023,Kamanpur,Pannur Stage,18.6655,79.522,highway,3,1,3,car-lorry,collision,clear overspeeding
+2023,Kamanpur,Centenary Colony Gate,18.705,79.621,urban road,2,0,2,auto-bike,collision,clear lack of signage
+2023,Kamanpur,Rompikunta Bridge,18.682,79.545,highway,2,1,1,head-on,collision,rainy road engineering defect
+2023,Kamanpur,Nagaram Road Curve,18.618,79.622,rural road,1,0,1,bike-skid,clear,dangerous curve
+2023,Kamanpur,Ladnapur Curve,18.675,79.534,highway,2,1,2,truck-car,collision,cloudy lane violation
+2023,Kamanpur,Kamanpur-Manthani Road,18.648,79.671,highway,2,0,2,car-auto,collision,clear overspeeding
+2023,Kamanpur,Adavisomanpalli X Road,18.685,79.712,junction,4,2,4,lorry-bus,collision,foggy poor visibility
+2023,Kamanpur,Gunjapadugu Entrance,18.6142,79.6355,rural road,1,1,0,bike-skid,rainy,poor road condition
+2023,Kamanpur,Mallepalli Road,18.632,79.511,rural road,2,0,1,bike-bike,collision,clear dangerous curve
+2023,Kamanpur,SCCL Mining Area Rd,18.712,79.585,urban road,2,1,1,dumper-bike,collision,clear poor lighting
+2023,Kamanpur,Kamanpur Main Bazaar,18.6105,79.3935,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2023,Kamanpur,Putti Road Junction,18.641,79.695,junction,2,0,2,auto-bike,collision,cloudy junction design issue
+2023,Kamanpur,Kalvacherla Stretch,18.575,79.442,highway,3,1,2,truck-lorry,collision,clear lane violation
+2023,Kamanpur,Sundilla Reservoir Rd,18.721,79.645,rural road,1,0,1,bike-skid,rainy,poor road condition
+2024,Srirampur,Srirampur X Road,18.5255,79.3142,junction,2,1,2,bike-lorry,collision,clear overspeeding
+2024,Srirampur,Srirampur Colony Gate,18.518,79.3055,urban road,2,0,1,bike-auto,collision,clear lack of signage
+2024,Srirampur,Rajiv Rahadari (Srirampur),18.5212,79.3115,highway,3,1,4,truck-car,collision,cloudy lane violation
+2024,Srirampur,Nagepalli Curve,18.5342,79.3252,highway,1,0,1,bike-skid,rainy,dangerous curve
+2024,Srirampur,Mothe Road Junction,18.541,79.3325,junction,2,1,2,head-on,collision,clear junction design issue
+2024,Srirampur,SCCL Shopping Complex Rd,18.5165,79.302,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2024,Srirampur,Srirampur Filter Bed Area,18.529,79.318,rural road,1,1,0,bike-skid,foggy,poor road condition
+2024,Srirampur,Gauri Shankar Temple Curve,18.512,79.298,urban road,2,0,2,bike-bike,collision,clear dangerous curve
+2024,Srirampur,Peddapalli-Srirampur Link,18.5505,79.345,highway,2,1,1,car-lorry,collision,clear overspeeding
+2024,Srirampur,GM Office Road,18.5195,79.3075,urban road,2,0,1,car-bike,collision,cloudy poor lighting
+2024,Sultanabad,Sultanabad X Road,18.5285,79.3195,junction,2,1,2,car-bike,collision,clear junction design issue
+2024,Sultanabad,Katnapally Gate,18.561,79.352,highway,3,1,3,truck-car,collision,clear overspeeding
+2024,Sultanabad,Poosala Curve,18.545,79.336,highway,1,0,1,bike-skid,rainy,dangerous curve
+2024,Sultanabad,Garrepalli Stage,18.498,79.284,junction,2,1,1,auto-bike,collision,foggy poor visibility
+2024,Sultanabad,Neerukulla Bridge,18.572,79.365,highway,2,2,2,head-on,collision,clear road engineering defect
+2024,Sultanabad,Sultanabad Market Area,18.526,79.317,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2024,Sultanabad,Srirampur Link Road,18.521,79.311,highway,2,1,2,car-lorry,collision,cloudy lane violation
+2024,Sultanabad,Kodurupaka Curve,18.585,79.378,rural road,1,0,1,bike-skid,rainy,poor road condition
+2024,Dharmaram,Mallapur (Outskirts),18.6725,79.2315,highway,2,2,1,bus-auto,collision,clear overspeeding
+2024,Dharmaram,Lambadi Thanda,18.705,79.268,highway,2,2,0,bike-lorry,collision,clear poor lighting
+2024,Dharmaram,Dharmaram X Road,18.6942,79.255,junction,2,1,2,car-bike,collision,cloudy junction design issue
+2024,Dharmaram,Dongatuniki Gate,18.7215,79.2885,highway,1,0,1,bike-skid,rainy,poor road condition
+2024,Dharmaram,Pathapally Bridge,18.6585,79.215,highway,2,1,2,head-on,collision,foggy road engineering defect
+2024,Dharmaram,Kasulapalli Road,18.685,79.242,rural road,1,1,3,bike-skid,clear,poor road condition
+2024,Dharmaram,Bommareddypally Stage,18.711,79.274,junction,2,0,2,auto-bike,collision,clear lack of signage
+2024,Dharmaram,Sayampally Curve,18.6815,79.2445,rural road,1,0,1,car-divider,hit,cloudy dangerous curve
+2024,Odela,Odela X Road,18.4912,79.4125,junction,2,1,2,car-bike,collision,clear junction design issue
+2024,Odela,Kanagarthi Curve,18.514,79.445,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2024,Odela,Odela Railway Gate,18.4855,79.408,rural road,2,1,1,bike-lorry,collision,clear poor visibility
+2024,Odela,Gumpula Stage,18.532,79.461,junction,2,0,2,auto-bike,collision,cloudy lack of signage
+2024,Odela,Pothkapally Road,18.475,79.385,rural road,2,2,0,head-on,collision,clear overspeeding
+2024,Odela,Madaka Bridge Approach,18.502,79.432,rural road,1,0,1,bike-skid,foggy,road engineering defect
+2024,Odela,Kolanoor-Odela Link,18.468,79.372,rural road,2,1,1,bike-tractor,collision,clear lane violation
+2024,Odela,Shanam Crossroads,18.525,79.453,junction,1,0,1,pedestrian,hit,cloudy poor lighting
+2024,Palakurthy,Basanthnagar Bridge,18.681,79.4525,highway,2,2,1,head-on,collision,clear road engineering defect
+2024,Palakurthy,Palakurthy X Road,18.6655,79.434,junction,3,1,2,truck-car,collision,cloudy junction design issue
+2024,Palakurthy,Putta Konda Curve,18.642,79.418,highway,1,1,0,bike-skid,rainy,dangerous curve
+2024,Palakurthy,Godavarikhani Link Road,18.702,79.465,highway,2,1,3,car-lorry,collision,foggy overspeeding
+2024,Palakurthy,Kukkalagudur Stage,18.651,79.426,junction,2,0,2,auto-bike,collision,clear lack of signage
+2024,Palakurthy,Jakkapur Curve,18.625,79.405,rural road,1,0,1,bike-skid,clear,poor road condition
+2024,Palakurthy,Palakurthy Market Area,18.664,79.432,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2024,Palakurthy,Eligaid Crossroad,18.638,79.392,junction,2,1,1,bike-tractor,collision,clear lane violation
+2024,Julapalli,Julapalli X Road,18.6015,79.324,junction,2,1,2,bike-auto,collision,clear junction design issue
+2024,Julapalli,Telukunta Curve,18.582,79.3455,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2024,Julapalli,Kukkalagudur Road,18.618,79.311,rural road,2,1,1,bike-tractor,collision,clear lane violation
+2024,Julapalli,Abbaiahpally Stage,18.6255,79.3325,junction,2,0,2,car-bike,collision,cloudy lack of signage
+2024,Julapalli,Peddapalli-Julapalli Link,18.605,79.358,rural road,2,2,1,head-on,collision,foggy poor visibility
+2024,Julapalli,Wadkapur Curve,18.571,79.295,rural road,1,0,1,car-divider,hit,clear road engineering defect
+2024,Julapalli,Julapalli Main Market,18.603,79.322,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2024,Julapalli,Sultanabad Road Junction,18.595,79.338,junction,2,1,2,bike-bike,collision,clear overspeeding
+2024,Eligaid,Eligaid X Road,18.528,79.281,junction,2,1,2,bike-auto,collision,clear junction design issue
+2024,Eligaid,Dhoolikatta Curve,18.545,79.298,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2024,Eligaid,Sultanabad-Eligaid Link,18.512,79.315,rural road,2,2,1,head-on,collision,clear overspeeding
+2024,Eligaid,Shivapally Bridge,18.552,79.274,rural road,2,1,1,bike-tractor,collision,foggy poor visibility
+2024,Eligaid,Muppirithota Junction,18.536,79.302,junction,2,0,2,bike-bike,collision,clear lack of signage
+2024,Eligaid,Eligaid-Julapalli Road,18.521,79.265,rural road,1,0,1,car-divider,hit,cloudy road engineering defect
+2024,Eligaid,Lalapally Stage,18.54,79.325,rural road,2,1,2,bike-auto,collision,clear poor lighting
+2024,Eligaid,Narsapur Crossroad,18.518,79.291,junction,2,0,2,auto-bike,collision,rainy poor road condition
+2024,Ramagiri,Ramagiri Fort Road,18.583,79.492,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2024,Ramagiri,Centenary Colony X Road,18.612,79.525,junction,2,1,2,truck-bike,collision,clear junction design issue
+2024,Ramagiri,Ladnapur Bridge,18.595,79.478,rural road,2,1,1,car-lorry,collision,foggy poor visibility
+2024,Ramagiri,Begumpet Stage,18.567,79.505,rural road,2,0,2,bike-auto,collision,clear lack of signage
+2024,Ramagiri,Kalvacharla Curve,18.631,79.541,highway,3,2,3,truck-car,collision,clear overspeeding
+2024,Ramagiri,Pannur Crossroad,18.552,79.462,junction,2,1,1,bike-bike,collision,cloudy poor lighting
+2024,Ramagiri,Mining Area Entry Gate,18.605,79.518,urban road,2,0,1,truck-auto,collision,clear lane violation
+2024,Ramagiri,Sabitham Waterfall Link,18.574,79.529,rural road,1,0,1,bike-skid,rainy,poor road condition
+2024,Anthergaon,Basanthnagar X Road,18.712,79.418,junction,2,1,2,truck-car,collision,clear junction design issue
+2024,Anthergaon,Anthergaon Railway Gate,18.731,79.435,rural road,2,1,1,bike-auto,collision,foggy poor visibility
+2024,Anthergaon,Golliwada Curve,18.745,79.452,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2024,Anthergaon,Potial Road Junction,18.698,79.405,junction,2,0,2,bike-bike,collision,clear lack of signage
+2024,Anthergaon,Eklaspur Stage,18.721,79.392,rural road,2,2,1,head-on,collision,clear overspeeding
+2024,Anthergaon,Kundanpalli Road,18.705,79.441,rural road,1,0,1,car-divider,hit,cloudy road engineering defect
+2024,Anthergaon,Brahmanapally Road,18.685,79.381,rural road,2,1,2,bike-tractor,collision,clear poor lighting
+2024,Anthergaon,Murmur Bridge Approach,18.755,79.465,rural road,1,0,1,bike-skid,rainy,poor road condition
+2024,Mutharam,Mutharam Main Road Curve,18.452,79.514,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2024,Mutharam,Parupalli X Road,18.471,79.532,junction,2,1,2,bike-auto,collision,clear junction design issue
+2024,Mutharam,Odedu Bridge Approach,18.495,79.558,rural road,2,1,1,bike-tractor,collision,foggy poor visibility
+2024,Mutharam,Khammampally Stage,18.438,79.489,rural road,2,0,2,bike-bike,collision,clear poor lighting
+2024,Mutharam,Manthani-Mutharam Road,18.465,79.525,rural road,2,2,1,head-on,collision,clear overspeeding
+2024,Mutharam,Potharam Junction,18.421,79.475,junction,2,0,1,auto-bike,collision,cloudy lack of signage
+2024,Mutharam,Mydambanda Curve,18.482,79.543,rural road,1,0,2,car-divider,hit,rainy road engineering defect
+2024,Mutharam,Ladnapur Link Road,18.441,79.502,rural road,2,1,1,bike-tractor,collision,clear poor road condition
+2024,Ramagundam,Basanthnagar Culvert,18.6852,79.4325,highway,1,2,0,car-culvert,hit,foggy overspeeding
+2024,Ramagundam,Godavarikhani-Ramagundam Rd,18.785,79.4715,urban road,2,0,2,bike-auto,collision,clear junction design issue
+2024,Ramagundam,NTPC Power House Curve,18.732,79.512,highway,2,1,1,car-lorry,collision,clear dangerous curve
+2024,Ramagundam,FCI Main Gate Junction,18.7715,79.4935,junction,3,0,4,truck-auto,collision,cloudy lack of signage
+2024,Ramagundam,Medipalli Open Cast Gate,18.7165,79.5315,rural road,2,1,0,dumper-bike,collision,clear poor visibility
+2024,Ramagundam,Rajiv Rahadari (Near 8 Incline),18.7845,79.4675,highway,2,1,2,head-on,collision,rainy lane violation
+2024,Ramagundam,GM Office Circle,18.7562,79.4805,junction,2,0,3,car-bike,collision,clear road engineering defect
+2024,Ramagundam,Janagaon Bypass Road B,18.7112,79.4455,highway,2,0,2,rear-end,collision,clear overspeeding
+2024,Ramagundam,Laxmipuram Colony Turn,18.746,79.5155,urban road,1,1,0,pedestrian,hit,cloudy poor lighting
+2024,Ramagundam,Malkapur Industrial Cross,18.7442,79.4328,junction,3,2,5,truck-truck,collision,clear overspeeding
+2024,Ramagundam,Vittal Nagar Internal Link,18.7508,79.4682,urban road,1,0,1,bike-skid,rainy,poor road condition
+2024,Ramagundam,Kundanpalli Village Entrance,18.7692,79.5358,rural road,2,1,1,bike-auto,collision,clear dangerous curve
+2024,Ramagundam,Malyalapalli Bridge (West),18.7075,79.4922,rural road,2,0,2,bike-bike,collision,clear lack of signage
+2024,Ramagundam,Markandeya Colony Main Arch,18.7552,79.4622,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2024,Ramagundam,7 Incline Bazaar Road,18.7918,79.4545,urban road,2,0,2,auto-bike,collision,cloudy junction design issue
+2024,Ramagundam,Rajiv Rahadari (FCI Cross),18.7675,79.5022,highway,3,1,4,truck-car,collision,clear overspeeding
+2024,Ramagundam,Housing Board Sector 1,18.7415,79.5025,urban road,1,0,1,bike-skid,clear,poor road condition
+2024,Ramagundam,Ramesh Nagar Haul Track,18.7785,79.4592,rural road,2,1,1,truck-bike,collision,foggy poor visibility
+2024,Ramagundam,Prasanth Nagar Circle B,18.7712,79.4852,junction,2,0,3,car-bike,collision,clear lane violation
+2024,Ramagundam,Subash Nagar Market Area,18.7678,79.4895,urban road,1,0,1,pedestrian,hit,clear poor road condition
+2024,Ramagundam,Gouthami Nagar 1st Road,18.7492,79.5122,urban road,2,0,2,car-auto,collision,rainy lack of signage
+2024,Ramagundam,Kalyan Nagar North Arch,18.7445,79.5092,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2024,Ramagundam,Shanti Nagar Main Road,18.7652,79.4762,urban road,2,1,2,head-on,collision,clear overspeeding
+2024,Ramagundam,Maredupalli Outer Circle,18.7282,79.5395,rural road,2,0,2,bike-auto,collision,cloudy dangerous curve
+2024,Ramagundam,Bhagat Singh Nagar Cut B,18.7632,79.4712,junction,2,0,1,car-bike,collision,clear road engineering defect
+2024,Ramagundam,Vocational College Outer Rd,18.7738,79.4742,urban road,2,1,1,lorry-bike,collision,clear overspeeding
+2024,Ramagundam,NTPC TTS Back Gate,18.7348,79.5115,urban road,1,0,1,bike-skid,foggy,poor visibility
+2024,Ramagundam,Annapurna Colony Link B,18.7568,79.4932,urban road,2,0,2,auto-bike,collision,clear junction design issue
+2024,Ramagundam,Singareni Hospital Road B,18.7548,79.4825,urban road,3,1,4,truck-car,collision,clear lane violation
+2024,Ramagundam,Allur Village High Road B,18.7978,79.4382,rural road,2,1,2,tractor-bike,collision,rainy poor road condition
+2024,Ramagundam,Jyothi Nagar Bus Stand B,18.7488,79.5052,urban road,1,1,0,pedestrian,hit,clear overspeeding
+2024,Ramagundam,MG Road North Extension,18.7552,79.4885,urban road,2,0,2,car-auto,collision,cloudy road engineering defect
+2024,Ramagundam,GDK 9 Incline Slope Rd B,18.7945,79.4652,rural road,1,0,1,bike-skid,clear,dangerous curve
+2024,Ramagundam,Fertilizer City East Circle,18.7748,79.5002,junction,2,0,2,auto-bike,collision,clear lack of signage
+2024,Ramagundam,GM Office Front Gate,18.7588,79.4802,junction,2,1,2,car-bike,collision,clear overspeeding
+2024,Peddapalli,Rangampalli (Rajiv Rahadari),18.6045,79.3655,highway,1,2,1,pedestrian,hit,clear overspeeding
+2024,Peddapalli,Basanthnagar Culvert,18.681,79.4125,highway,1,2,0,car-culvert,hit,clear road engineering defect
+2024,Peddapalli,Andugulapalli Junction,18.636,79.392,junction,2,1,3,lorry-car,collision,cloudy junction design issue
+2024,Peddapalli,Peddapalli-Sultanabad Rd,18.581,79.337,highway,2,0,2,head-on,collision,rainy dangerous curve
+2024,Peddapalli,Raghavapuram Bridge,18.585,79.34,highway,3,1,4,truck-auto,collision,foggy poor visibility
+2024,Peddapalli,Railway Overbridge (ROB),18.619,79.3885,highway,2,0,1,rear-end,collision,clear lack of signage
+2024,Peddapalli,Sabitham Village Entry,18.626,79.4,rural road,1,0,1,bike-skid,clear,poor road condition
+2024,Peddapalli,Appannapet Canal Road,18.64,79.392,rural road,1,1,0,bike-skid,clear,dangerous curve
+2024,Peddapalli,MRO Office Junction,18.614,79.37,junction,2,0,2,car-bike,collision,clear junction design issue
+2024,Peddapalli,Peddakalvala High Road,18.572,79.325,highway,3,1,2,truck-lorry,collision,clear overspeeding
+2024,Peddapalli,Brahmanpalli Arch,18.631,79.354,rural road,1,0,1,bike-skid,rainy,poor road condition
+2024,Peddapalli,Palthem Bypass,18.651,79.421,highway,2,1,2,head-on,collision,clear lane violation
+2024,Peddapalli,Bus Stand Main Gate,18.616,79.376,urban road,2,0,3,auto-bike,collision,clear lack of signage
+2024,Peddapalli,Goureddypalli Turn,18.59,79.331,highway,2,1,1,car-lorry,collision,foggy poor visibility
+2024,Peddapalli,Godavari Road Corner,18.62,79.387,urban road,1,0,1,bike-skid,clear,poor road condition
+2024,Peddapalli,Kukkalagudur Road,18.654,79.405,rural road,2,0,2,bike-auto,collision,cloudy lack of signage
+2024,Peddapalli,Subash Nagar 4th Line,18.6215,79.374,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2024,Peddapalli,Maredugonda High Road,18.564,79.315,rural road,2,1,1,bike-bike,collision,clear dangerous curve
+2024,Peddapalli,Basanthnagar Colony Rd,18.677,79.415,urban road,2,0,1,car-bike,collision,clear lane violation
+2024,Peddapalli,Khila Peddapalli Exit,18.6255,79.38,urban road,2,0,2,bike-auto,collision,clear junction design issue
+2024,Peddapalli,Nimmapalli Hill Base,18.5945,79.351,rural road,1,1,0,bike-skid,rainy,poor road condition
+2024,Peddapalli,Karimnagar Highway Link,18.55,79.295,highway,3,2,3,truck-car,collision,clear overspeeding
+2024,Peddapalli,Peddapalli Court Road,18.6135,79.369,urban road,2,0,1,auto-bike,collision,clear lack of signage
+2024,Peddapalli,Bondampalli Forest Cut,18.634,79.432,rural road,2,1,2,head-on,collision,foggy poor visibility
+2024,Peddapalli,Church Road Arch,18.615,79.379,urban road,1,0,1,pedestrian,hit,rainy road engineering defect
+2024,Peddapalli,Mallial Stream Crossing,18.661,79.445,rural road,1,0,1,bike-skid,clear,poor road condition
+2024,Peddapalli,Mancherial Hwy Bypass,18.6105,79.382,highway,2,1,1,car-lorry,collision,clear overspeeding
+2024,Peddapalli,Vaddala Main Street,18.627,79.395,urban road,2,0,2,bike-auto,collision,cloudy junction design issue
+2024,Peddapalli,Market Yard Outer Gate,18.607,79.371,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2024,Peddapalli,Raghavapur Toll Booth,18.585,79.342,highway,2,0,2,rear-end,collision,clear lane violation
+2024,Manthani,Manthani-Gangapuri Junction,18.6482,79.6715,junction,2,1,1,bike-tractor,collision,clear junction design issue
+2024,Manthani,Manthani-Kataram Rd (Eklaspur),18.6395,79.6602,highway,1,1,0,pedestrian,hit,clear overspeeding
+2024,Manthani,Old Petrol Pump Area,18.6515,79.673,urban road,2,0,2,bike-auto,collision,cloudy lack of signage
+2024,Manthani,Gunjapadugu X Road,18.6145,79.6358,junction,2,0,3,auto-bike,collision,clear junction design issue
+2024,Manthani,Boinpeta-Gangapuri Stretch,18.638,79.655,rural road,2,1,0,bike-tractor,collision,clear overspeeding
+2024,Manthani,Soorayyapally Junction,18.658,79.692,junction,2,1,2,bike-lorry,collision,clear junction design issue
+2024,Manthani,Godavari Bridge Approach,18.6648,79.6885,highway,1,0,2,car-divider,hit,foggy poor visibility
+2024,Manthani,Eklaspur Main Road,18.6392,79.6605,rural road,1,0,1,bike-skid,rainy,poor road condition
+2024,Manthani,Bhatpally Road,18.6255,79.6425,rural road,2,1,1,tractor-bike,collision,clear poor lighting
+2024,Manthani,Adavisomanpalli Junction,18.6855,79.7125,highway,2,1,2,car-lorry,collision,clear overspeeding
+2024,Manthani,Govt Hospital Road,18.6445,79.6675,urban road,1,0,1,pedestrian,hit,cloudy poor lighting
+2024,Manthani,Villochanda Bridge,18.6015,79.6125,highway,2,1,2,head-on,collision,rainy road engineering defect
+2024,Manthani,Puttapaka Curve,18.6415,79.6955,rural road,1,0,1,bike-skid,clear,dangerous curve
+2024,Manthani,Sripada Sagar Road,18.6925,79.7455,highway,3,1,3,truck-car,collision,clear lane violation
+2024,Manthani,Kuchirajupalli Road,18.5955,79.5985,rural road,1,1,0,bike-skid,foggy,dangerous curve
+2024,Manthani,Nagaram Village Link,18.6185,79.6225,rural road,1,0,1,bike-skid,rainy,poor road condition
+2024,Manthani,Manthani Bus Stand,18.65,79.6725,junction,2,0,2,auto-bike,collision,clear lack of signage
+2024,Manthani,Mallaram Forest Stretch,18.6115,79.5855,highway,2,0,2,rear-end,collision,foggy poor visibility
+2024,Manthani,Centenary Colony Link,18.7055,79.6215,rural road,1,0,1,bike-skid,cloudy,poor road condition
+2024,Manthani,Civil Courts Entrance,18.647,79.671,urban road,1,0,1,pedestrian,hit,clear road engineering defect
+2024,Kamanpur,Kaman Centre (Town),18.6115,79.3945,junction,2,1,1,bike-lorry,collision,clear overspeeding
+2024,Kamanpur,Pannur Stage,18.6658,79.5225,highway,3,1,2,car-lorry,collision,clear overspeeding
+2024,Kamanpur,Rompikunta Bridge,18.6822,79.5452,highway,2,1,1,head-on,collision,rainy road engineering defect
+2024,Kamanpur,Centenary Colony Gate,18.7052,79.6212,urban road,1,0,2,bike-skid,clear,poor lighting
+2024,Kamanpur,Nagaram Road Curve,18.6182,79.6222,rural road,2,0,1,bike-auto,collision,cloudy dangerous curve
+2024,Kamanpur,Ladnapur Curve,18.6752,79.5342,highway,2,1,1,truck-car,collision,foggy poor visibility
+2024,Kamanpur,Kamanpur-Manthani Road,18.6482,79.6712,highway,1,0,1,bike-skid,clear,poor road condition
+2024,Kamanpur,Adavisomanpalli X Road,18.6852,79.7122,junction,3,0,3,lorry-auto,collision,clear junction design issue
+2024,Kamanpur,Gunjapadugu Entrance,18.6145,79.6358,rural road,1,1,0,bike-skid,rainy,poor road condition
+2024,Kamanpur,Mallepalli Road,18.6322,79.5112,rural road,2,0,2,bike-bike,collision,clear dangerous curve
+2024,Kamanpur,SCCL Mining Area Rd,18.7122,79.5852,urban road,2,1,1,dumper-bike,collision,clear lane violation
+2024,Kamanpur,Kamanpur Main Bazaar,18.6108,79.3938,urban road,1,0,1,pedestrian,hit,clear lack of signage
+2024,Kamanpur,Putti Road Junction,18.6412,79.6952,junction,2,0,2,auto-bike,collision,cloudy junction design issue
+2024,Kamanpur,Kalvacherla Stretch,18.5752,79.4422,highway,3,1,2,truck-lorry,collision,clear lane violation
+2024,Kamanpur,Sundilla Reservoir Rd,18.7212,79.6452,rural road,1,1,0,bike-skid,rainy,poor road condition
+2025,Srirampur,Srirampur X Road,18.5255,79.3142,junction,2,1,2,bike-auto,collision,clear junction design issue
+2025,Srirampur,Rajiv Rahadari (Shastrinagar),18.515,79.31,highway,2,2,0,car-lorry,collision,clear overspeeding
+2025,Srirampur,Srirampur Colony Gate,18.518,79.3055,urban road,2,0,1,bike-auto,collision,cloudy poor lighting
+2025,Srirampur,Nagepalli Curve,18.534,79.325,highway,1,0,2,bike-skid,rainy,dangerous curve
+2025,Srirampur,Mothe Road Junction,18.541,79.3325,junction,2,1,1,truck-bike,collision,clear lack of signage
+2025,Srirampur,Tharupalli Crossroads,18.495,79.385,junction,2,2,0,bike-bike,collision,clear junction design issue
+2025,Srirampur,SCCL Shopping Complex Rd,18.5165,79.302,urban road,1,0,1,pedestrian,hit,clear road engineering defect
+2025,Srirampur,Srirampur Filter Bed Area,18.529,79.318,rural road,1,0,1,bike-skid,foggy,poor visibility
+2025,Srirampur,Gauri Shankar Temple Curve,18.512,79.298,urban road,2,1,1,car-bike,collision,clear dangerous curve
+2025,Srirampur,Peddapalli-Srirampur Link,18.5505,79.345,highway,3,1,3,truck-lorry,collision,rainy poor road condition
+2025,Sultanabad,Sultanabad X Road,18.5285,79.3195,junction,2,1,2,bike-auto,collision,clear junction design issue
+2025,Sultanabad,Katnapally Gate,18.561,79.352,highway,3,1,4,truck-car,collision,clear overspeeding
+2025,Sultanabad,Rajiv Rahadari (Shastrinagar),18.515,79.31,highway,2,2,0,car-lorry,collision,clear poor lighting
+2025,Sultanabad,Poosala Curve,18.545,79.336,highway,1,0,1,car-divider,hit,rainy dangerous curve
+2025,Sultanabad,Garrepalli Stage,18.498,79.284,junction,2,1,1,bike-auto,collision,foggy poor visibility
+2025,Sultanabad,Neerukulla Bridge,18.572,79.365,highway,2,2,2,head-on,collision,cloudy road engineering defect
+2025,Sultanabad,Sultanabad Market Area,18.526,79.317,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2025,Sultanabad,Tharupalli Crossroads,18.495,79.385,junction,2,2,0,bike-bike,collision,clear lack of signage
+2025,Dharmaram,Dharmaram X Road,18.6942,79.255,junction,2,1,2,bike-auto,collision,clear junction design issue
+2025,Dharmaram,Mallapur Curve,18.672,79.231,highway,1,1,0,bike-skid,rainy,poor road condition
+2025,Dharmaram,Dongatuniki Gate,18.7215,79.2885,highway,3,1,4,truck-car,collision,clear overspeeding
+2025,Dharmaram,Lambadi Thanda,18.705,79.268,highway,2,0,2,car-lorry,collision,cloudy poor lighting
+2025,Dharmaram,Pathapally Bridge,18.6585,79.215,highway,2,1,1,head-on,collision,foggy road engineering defect
+2025,Dharmaram,Bommareddypally Stage,18.711,79.274,junction,2,0,3,auto-bike,collision,clear lack of signage
+2025,Dharmaram,Kasulapalli Road,18.685,79.242,rural road,1,1,1,bike-skid,rainy,poor road condition
+2025,Dharmaram,Sayampally Curve,18.6815,79.2445,rural road,2,0,2,bike-tractor,collision,clear dangerous curve
+2025,Odela,Odela X Road,18.4912,79.4125,junction,2,1,2,bike-auto,collision,clear junction design issue
+2025,Odela,Kanagarthi Curve,18.514,79.445,rural road,1,1,0,bike-skid,rainy,poor road condition
+2025,Odela,Odela Railway Gate,18.4855,79.408,rural road,3,1,4,truck-car,collision,clear overspeeding
+2025,Odela,Gumpula Stage,18.532,79.461,junction,2,0,2,auto-bike,collision,cloudy lack of signage
+2025,Odela,Pothkapally Road,18.475,79.385,rural road,2,2,1,head-on,collision,foggy poor visibility
+2025,Odela,Madaka Bridge Approach,18.502,79.432,rural road,1,0,1,car-divider,hit,clear road engineering defect
+2025,Odela,Kolanoor-Odela Link,18.468,79.372,rural road,2,1,2,bike-tractor,collision,rainy poor road condition
+2025,Odela,Shanam Crossroads,18.525,79.453,junction,2,0,2,bike-bike,collision,clear poor lighting
+2025,Palakurthy,Basanthnagar Bridge,18.681,79.4525,highway,2,2,1,head-on,collision,foggy road engineering defect
+2025,Palakurthy,Palakurthy X Road,18.6655,79.434,junction,3,1,3,truck-car,collision,clear junction design issue
+2025,Palakurthy,Putta Konda Curve,18.642,79.418,highway,1,0,2,car-divider,hit,rainy dangerous curve
+2025,Palakurthy,Godavarikhani Link Road,18.702,79.465,highway,2,1,2,car-lorry,collision,clear overspeeding
+2025,Palakurthy,Kukkalagudur Stage,18.651,79.426,junction,2,1,1,bike-auto,collision,cloudy lack of signage
+2025,Palakurthy,Jakkapur Curve,18.625,79.405,rural road,1,1,0,bike-skid,rainy,poor road condition
+2025,Palakurthy,Palakurthy Market Area,18.664,79.432,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2025,Palakurthy,Eligaid Crossroad,18.638,79.392,junction,2,0,2,bike-tractor,collision,clear lane violation
+2025,Julapalli,Julapalli X Road,18.6015,79.324,junction,2,1,2,bike-auto,collision,clear junction design issue
+2025,Julapalli,Telukunta Curve,18.582,79.3455,rural road,1,0,1,bike-skid,rainy,poor road condition
+2025,Julapalli,Kukkalagudur Road,18.618,79.311,rural road,2,1,1,bike-tractor,collision,clear lane violation
+2025,Julapalli,Abbaiahpally Stage,18.6255,79.3325,junction,2,0,2,car-bike,collision,cloudy lack of signage
+2025,Julapalli,Peddapalli-Julapalli Link,18.605,79.358,rural road,2,2,1,head-on,collision,foggy poor visibility
+2025,Julapalli,Wadkapur Curve,18.571,79.295,rural road,1,0,1,car-divider,hit,clear road engineering defect
+2025,Julapalli,Julapalli Main Market,18.603,79.322,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2025,Julapalli,Sultanabad Road Junction,18.595,79.338,junction,2,1,2,bike-bike,collision,clear overspeeding
+2025,Eligaid,Eligaid X Road,18.528,79.281,junction,2,1,2,bike-auto,collision,clear junction design issue
+2025,Eligaid,Dhoolikatta Curve,18.545,79.298,rural road,1,0,1,bike-skid,rainy,poor road condition
+2025,Eligaid,Sultanabad-Eligaid Link,18.512,79.315,rural road,2,2,1,head-on,collision,clear overspeeding
+2025,Eligaid,Shivapally Bridge,18.552,79.274,rural road,2,1,1,bike-tractor,collision,foggy poor visibility
+2025,Eligaid,Muppirithota Junction,18.536,79.302,junction,2,0,2,bike-bike,collision,clear lack of signage
+2025,Eligaid,Eligaid-Julapalli Road,18.521,79.265,rural road,1,0,1,car-divider,hit,cloudy road engineering defect
+2025,Eligaid,Lalapally Stage,18.54,79.325,rural road,2,1,2,bike-auto,collision,clear poor lighting
+2025,Eligaid,Narsapur Crossroad,18.518,79.291,junction,2,0,2,auto-bike,collision,rainy poor road condition
+2025,Ramagiri,Ramagiri Fort Road,18.583,79.492,rural road,2,1,1,bike-auto,collision,clear dangerous curve
+2025,Ramagiri,Centenary Colony X Road,18.612,79.525,junction,3,1,3,truck-car,collision,clear junction design issue
+2025,Ramagiri,Ladnapur Bridge,18.595,79.478,rural road,2,1,1,bike-lorry,collision,foggy poor visibility
+2025,Ramagiri,Begumpet Stage,18.567,79.505,rural road,2,0,2,bike-auto,collision,clear lack of signage
+2025,Ramagiri,Kalvacharla Curve,18.631,79.541,highway,2,2,2,head-on,collision,cloudy overspeeding
+2025,Ramagiri,Pannur Crossroad,18.552,79.462,junction,2,0,2,bike-bike,collision,clear poor lighting
+2025,Ramagiri,Mining Area Entry Gate,18.605,79.518,urban road,2,1,1,truck-auto,collision,clear lane violation
+2025,Ramagiri,Sabitham Waterfall Link,18.574,79.529,rural road,1,0,1,bike-skid,rainy,poor road condition
+2025,Anthergaon,Basanthnagar X Road,18.712,79.418,junction,3,1,2,truck-car,collision,clear junction design issue
+2025,Anthergaon,Anthergaon Railway Gate,18.731,79.435,rural road,2,1,1,bike-lorry,collision,foggy poor visibility
+2025,Anthergaon,Golliwada Curve,18.745,79.452,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2025,Anthergaon,Potial Road Junction,18.698,79.405,junction,2,0,2,bike-bike,collision,clear lack of signage
+2025,Anthergaon,Eklaspur Stage,18.721,79.392,rural road,2,2,2,head-on,collision,clear overspeeding
+2025,Anthergaon,Kundanpalli Road,18.705,79.441,rural road,1,0,1,car-divider,hit,cloudy road engineering defect
+2025,Anthergaon,Brahmanapally Road,18.685,79.381,rural road,2,1,1,bike-tractor,collision,clear poor lighting
+2025,Anthergaon,Murmur Bridge Approach,18.755,79.465,rural road,1,0,1,auto-skid,rainy,poor road condition
+2025,Mutharam,Mutharam Main Road Curve,18.452,79.514,rural road,1,0,1,bike-skid,rainy,dangerous curve
+2025,Mutharam,Parupalli X Road,18.471,79.532,junction,2,1,2,bike-auto,collision,clear junction design issue
+2025,Mutharam,Odedu Bridge Approach,18.495,79.558,rural road,2,1,1,bike-tractor,collision,foggy poor visibility
+2025,Mutharam,Khammampally Stage,18.438,79.489,rural road,2,0,2,bike-bike,collision,clear poor lighting
+2025,Mutharam,Manthani-Mutharam Road,18.465,79.525,rural road,3,2,2,head-on,collision,clear overspeeding
+2025,Mutharam,Potharam Junction,18.421,79.475,junction,2,0,1,auto-bike,collision,cloudy lack of signage
+2025,Mutharam,Mydambanda Curve,18.482,79.543,rural road,1,0,1,car-divider,hit,clear road engineering defect
+2025,Mutharam,Ladnapur Link Road,18.441,79.502,rural road,2,1,1,bike-tractor,collision,clear poor road condition
+2025,Ramagundam,Pragyapur-Ramagundam Hwy,18.6521,79.411,highway,2,2,1,car-stationary,truck,foggy poor visibility
+2025,Ramagundam,Jawaharnagar Work Shop,18.7512,79.489,urban road,1,2,1,bike-wall,hit,clear dangerous curve
+2025,Ramagundam,NTPC Solar Project Road,18.7305,79.5215,rural road,2,1,0,truck-run,over,clear road engineering defect
+2025,Ramagundam,Godavarikhani Chowrasta,18.7545,79.4875,junction,1,1,0,pedestrian,hit,clear poor lighting
+2025,Ramagundam,Raghavapuram-RDM Stretch,18.721,79.442,highway,2,1,2,head-on,collision,cloudy overspeeding
+2025,Ramagundam,Medipalli OCP Entrance,18.715,79.5305,rural road,2,1,1,tipper-bike,collision,clear poor road condition
+2025,Ramagundam,8 Incline Bypass,18.7835,79.4665,highway,3,1,4,truck-auto,collision,rainy lane violation
+2025,Ramagundam,GM Office Main Circle,18.7565,79.4815,junction,2,0,3,car-bike,collision,clear junction design issue
+2025,Ramagundam,Basanthnagar Highway,18.6845,79.4315,highway,2,1,2,car-lorry,collision,foggy overspeeding
+2025,Ramagundam,Laxmipuram Sector 1,18.7455,79.516,urban road,1,0,1,bike-skid,rainy,poor road condition
+2025,Ramagundam,Vittal Nagar Curve,18.7485,79.4665,urban road,2,0,2,auto-bike,collision,clear dangerous curve
+2025,Ramagundam,FCI North Gate,18.7695,79.4925,junction,3,2,3,lorry-car,collision,clear lack of signage
+2025,Ramagundam,Rajiv Rahadari (NH-63),18.745,79.519,highway,2,1,1,rear-end,collision,clear overspeeding
+2025,Ramagundam,Kundanpalli X Road,18.768,79.5345,junction,2,0,2,bike-auto,collision,cloudy lack of signage
+2025,Ramagundam,Malyalapalli Stream Side,18.707,79.491,rural road,2,1,1,bike-bike,collision,clear road engineering defect
+2025,Ramagundam,Markandeya Colony Road,18.756,79.4605,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2025,Ramagundam,7 Incline Hospital Zone,18.7915,79.455,urban road,2,0,2,car-auto,collision,cloudy lane violation
+2025,Ramagundam,Housing Board Main Arch,18.741,79.502,urban road,1,0,1,bike-skid,rainy,poor road condition
+2025,Ramagundam,Ramesh Nagar Coal Road,18.777,79.459,rural road,2,1,0,truck-bike,collision,foggy poor visibility
+2025,Ramagundam,Prasanth Nagar Circle,18.7715,79.4845,junction,3,0,5,bus-auto,collision,clear junction design issue
+2025,Ramagundam,Subash Nagar Crossing,18.767,79.489,urban road,1,0,1,bike-skid,clear,poor road condition
+2025,Ramagundam,Gouthami Nagar Market,18.7475,79.511,urban road,2,1,1,bike-auto,collision,clear overspeeding
+2025,Ramagundam,Kalyan Nagar Bypass,18.7435,79.5075,junction,2,0,2,car-bike,collision,clear lack of signage
+2025,Ramagundam,Shanti Nagar Entrance,18.7645,79.4755,urban road,1,1,0,pedestrian,hit,cloudy poor lighting
+2025,Ramagundam,Maredupalli Outer Link,18.728,79.5385,rural road,2,0,2,bike-auto,collision,clear dangerous curve
+2025,Ramagundam,Bhagat Singh Nagar Cut,18.762,79.4705,junction,2,0,1,car-bike,collision,rainy road engineering defect
+2025,Ramagundam,Vocational College Area,18.7735,79.4735,urban road,2,1,2,lorry-bike,collision,clear overspeeding
+2025,Ramagundam,NTPC TTS Gate B,18.7345,79.511,urban road,1,0,1,bike-skid,foggy,poor visibility
+2025,Ramagundam,Annapurna Colony High Rd,18.7565,79.493,urban road,2,0,2,auto-bike,collision,clear junction design issue
+2025,Ramagundam,Singareni Hospital Rd C,18.7545,79.482,urban road,3,1,4,truck-car,collision,clear lane violation
+2025,Ramagundam,Allur Village High Road,18.7975,79.438,rural road,2,1,1,tractor-bike,collision,rainy poor road condition
+2025,Ramagundam,Jyothi Nagar Bus Stand,18.7485,79.505,urban road,1,1,0,pedestrian,hit,clear overspeeding
+2025,Ramagundam,MG Road Extension,18.7545,79.488,urban road,2,0,2,car-auto,collision,cloudy road engineering defect
+2025,Ramagundam,GDK 9 Incline Slope C,18.794,79.4645,rural road,1,0,1,bike-skid,clear,dangerous curve
+2025,Ramagundam,Fertilizer City East Gate,18.7745,79.5,junction,2,0,2,auto-bike,collision,clear lack of signage
+2025,Peddapalli,Basanthnagar (SH-1),18.6812,79.4128,highway,1,2,0,car-culvert,hit,clear road engineering defect
+2025,Peddapalli,Shastrinagar (Sultanabad Outskirts),18.535,79.328,highway,2,2,1,car-lorry,collision,clear overspeeding
+2025,Peddapalli,Katnapally (Sultanabad Mandal),18.522,79.314,highway,1,0,1,car-pedestrian,(livestock),clear overspeeding
+2025,Peddapalli,Shastrinagar (Rajiv Rahadari),18.536,79.3295,highway,2,1,2,head-on,collision,foggy poor visibility
+2025,Peddapalli,Suglampalli (Rajiv Rahadari),18.515,79.308,highway,1,1,2,lorry,overturn,clear road engineering defect
+2025,Peddapalli,Rangampalli Village,18.6045,79.3655,highway,1,0,1,car-pedestrian,clear,overspeeding
+2025,Peddapalli,Suddala (Sultanabad),18.541,79.342,rural road,2,2,2,head-on,collision,clear dangerous curve
+2025,Peddapalli,Peddapalli Flyover,18.618,79.375,highway,2,1,1,rear-end,collision,cloudy lane violation
+2025,Peddapalli,Sabitham Road Turn,18.627,79.401,rural road,1,0,1,bike-skid,clear,poor road condition
+2025,Peddapalli,Railway Station Road,18.6185,79.387,urban road,2,0,2,bike-auto,collision,clear poor lighting
+2025,Peddapalli,Appannapet Canal Stretch,18.641,79.392,rural road,1,1,0,bike-skid,clear,road engineering defect
+2025,Peddapalli,Raghavapur School Zone,18.586,79.341,highway,2,0,2,car-bike,collision,clear lack of signage
+2025,Peddapalli,Govt Hospital Area,18.612,79.372,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2025,Peddapalli,Peddakalvala Bridge,18.572,79.325,highway,3,1,2,truck-car,collision,cloudy overspeeding
+2025,Peddapalli,Brahmanpalli Road,18.632,79.355,rural road,1,0,1,bike-skid,rainy,poor road condition
+2025,Peddapalli,Palthem Road Junction,18.651,79.421,junction,2,0,2,car-auto,collision,clear junction design issue
+2025,Peddapalli,Kamanpur Cross Road,18.611,79.391,junction,3,1,3,lorry-auto,collision,clear lack of signage
+2025,Peddapalli,Bus Stand Entrance,18.6155,79.3765,urban road,2,0,2,auto-bike,collision,clear junction design issue
+2025,Peddapalli,Goureddypalli Turn,18.591,79.332,highway,2,1,1,head-on,collision,foggy poor visibility
+2025,Peddapalli,Godavari Road Stretch,18.621,79.389,urban road,1,0,1,bike-skid,clear,poor road condition
+2025,Peddapalli,Kukkalagudur Area,18.655,79.405,rural road,2,1,1,bike-auto,collision,clear dangerous curve
+2025,Peddapalli,Subash Nagar Market,18.6195,79.3745,urban road,1,0,1,pedestrian,hit,clear poor lighting
+2025,Peddapalli,Maredugonda Road,18.565,79.315,rural road,2,0,2,bike-bike,collision,cloudy road engineering defect
+2025,Peddapalli,Khila Peddapalli,18.6255,79.381,urban road,2,0,1,bike-auto,collision,clear poor road condition
+2025,Peddapalli,Nimmapalli Hill Base,18.595,79.352,rural road,1,1,0,bike-skid,rainy,dangerous curve
+2025,Peddapalli,Karimnagar Road Outskirts,18.551,79.295,highway,3,1,2,truck-car,collision,clear overspeeding
+2025,Peddapalli,Court Area Road,18.6135,79.3695,urban road,1,0,2,auto-bike,collision,clear lack of signage
+2025,Peddapalli,Bondampalli Curve,18.635,79.432,rural road,2,1,1,head-on,collision,foggy poor visibility
+2025,Peddapalli,Church Road Junction,18.616,79.3795,junction,2,0,1,car-bike,collision,cloudy junction design issue
+2025,Peddapalli,Raghavapur Toll Area,18.587,79.3445,highway,2,0,1,rear-end,collision,clear lane violation
+2025,Manthani,Nagepalli Crossroads,18.66,79.695,junction,1,0,16,auto-overturn,clear,road engineering defect
+2025,Manthani,Battupalli Road,18.6255,79.6425,rural road,2,2,0,bike-tractor,collision,clear overspeeding
+2025,Manthani,Manthani-Gangapuri Junction,18.6482,79.6715,junction,2,1,1,bike-tractor,collision,clear junction design issue
+2025,Manthani,Eklaspur Main Road,18.6395,79.6602,highway,1,1,0,pedestrian,hit,clear overspeeding
+2025,Manthani,Soorayyapally Junction,18.658,79.692,junction,2,1,2,bike-lorry,collision,clear junction design issue
+2025,Manthani,Gunjapadugu X Road,18.6145,79.6358,junction,2,0,3,auto-bike,collision,cloudy lack of signage
+2025,Manthani,Godavari Bridge Approach,18.6648,79.6885,highway,2,1,1,head-on,collision,foggy poor visibility
+2025,Manthani,Old Petrol Pump Area,18.6515,79.673,urban road,1,0,1,bike-skid,clear,poor road condition
+2025,Manthani,Govt Hospital Road,18.6445,79.6675,urban road,1,1,0,pedestrian,hit,clear poor lighting
+2025,Manthani,Villochanda Bridge,18.6015,79.6125,highway,3,1,4,truck-car,collision,rainy road engineering defect
+2025,Manthani,Puttapaka Curve,18.6415,79.6955,rural road,1,0,1,bike-skid,clear,dangerous curve
+2025,Manthani,Manthani-Peddapalli Hwy,18.633,79.606,highway,2,1,2,car-lorry,collision,clear overspeeding
+2025,Manthani,KHPS Area Entrance,18.656,79.682,urban road,1,0,1,bike-skid,rainy,poor road condition
+2025,Manthani,Old Manthani Bazaar,18.651,79.674,urban road,2,0,2,auto-bike,collision,cloudy junction design issue
+2025,Manthani,Sripada Sagar Road,18.6925,79.7455,highway,2,1,1,head-on,collision,clear lane violation
+2025,Manthani,Kuchirajupalli Road,18.5955,79.5985,rural road,1,1,0,bike-skid,foggy,dangerous curve
+2025,Manthani,Nagaram Village Link,18.6185,79.6225,rural road,2,0,2,bike-bike,collision,rainy poor road condition
+2025,Manthani,Manthani Bus Stand,18.65,79.6725,junction,2,0,2,auto-bike,collision,clear lack of signage
+2025,Manthani,Mallaram Forest Stretch,18.6115,79.5855,highway,2,1,1,head-on,collision,foggy poor visibility
+2025,Manthani,Centenary Colony Link,18.7055,79.6215,rural road,1,0,1,bike-skid,cloudy,poor road condition
+2025,Kamanpur,Pannur Stage,18.6655,79.522,highway,2,1,2,car-lorry,collision,clear overspeeding
+2025,Kamanpur,Rompikunta Bridge,18.682,79.545,highway,1,0,1,bike-skid,rainy,road engineering defect
+2025,Kamanpur,Kamanpur Cross Road,18.611,79.394,junction,2,1,1,bike-lorry,collision,clear junction design issue
+2025,Kamanpur,Centenary Colony Gate,18.705,79.621,urban road,2,0,2,auto-bike,collision,clear poor lighting
+2025,Kamanpur,Nagaram Road Curve,18.618,79.622,rural road,1,1,0,bike-skid,clear,dangerous curve
+2025,Kamanpur,Ladnapur Curve,18.675,79.534,highway,3,1,3,truck-car,collision,cloudy lane violation
+2025,Kamanpur,Kamanpur-Manthani Road,18.648,79.671,highway,2,0,2,car-auto,collision,clear overspeeding
+2025,Kamanpur,Adavisomanpalli X Road,18.685,79.712,junction,2,1,2,head-on,collision,foggy poor visibility
+2025,Kamanpur,Gunjapadugu Entrance,18.6142,79.6355,rural road,1,0,1,bike-skid,rainy,poor road condition
+2025,Kamanpur,Mallepalli Road,18.632,79.511,rural road,2,0,1,bike-bike,collision,clear dangerous curve
+2025,Kamanpur,SCCL Mining Area Rd,18.712,79.585,urban road,2,1,1,dumper-bike,collision,clear poor lighting
+2025,Kamanpur,Kamanpur Main Bazaar,18.6105,79.3935,urban road,1,0,1,pedestrian,hit,clear lack of signage
+2025,Kamanpur,Putti Road Junction,18.641,79.695,junction,2,0,2,auto-bike,collision,cloudy junction design issue
+2025,Kamanpur,Kalvacherla Stretch,18.575,79.442,highway,3,1,2,truck-lorry,collision,clear lane violation
+2025,Kamanpur,Sundilla Reservoir Rd,18.721,79.645,rural road,1,0,1,bike-skid,rainy,poor road condition
