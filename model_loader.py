@@ -11,10 +11,10 @@ Usage:
     loader.get_current_weather(time_pref)
 """
 
-import logging
 import math as _math
 import os
 import warnings
+from collections import defaultdict
 from io import StringIO
 
 import numpy as np
@@ -24,12 +24,10 @@ import requests
 warnings.filterwarnings("ignore")
 
 from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier, VotingClassifier
-from sklearn.metrics import accuracy_score, f1_score, roc_auc_score
-from sklearn.model_selection import RandomizedSearchCV, train_test_split
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, roc_auc_score
+from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from imblearn.over_sampling import SMOTE
-
-log = logging.getLogger(__name__)
 
 # ── Encoding dicts (same as Colab script) ────────────────────
 ROAD_RISK_MAP = {"highway": 3, "junction": 3, "rural road": 2, "urban road": 1}
@@ -334,6 +332,8 @@ class ModelLoader:
         return None
 
     def train(self):
+        import logging
+        log = logging.getLogger(__name__)
         log.info("🚀 Training ML model ...")
 
         df = self._load_data()
@@ -355,25 +355,19 @@ class ModelLoader:
         X_tr   = scaler.fit_transform(X_tr)
         X_te_s = scaler.transform(X_te)
 
-        # Random Forest
-        rf = RandomizedSearchCV(
-            RandomForestClassifier(random_state=42, n_jobs=-1),
-            {"n_estimators": [200, 300], "max_depth": [None, 8, 12],
-             "min_samples_leaf": [1, 2], "class_weight": ["balanced"]},
-            n_iter=6, cv=3, scoring="f1", random_state=42, verbose=0
+        # Random Forest — fixed hyperparameters for fast startup
+        best_rf = RandomForestClassifier(
+            n_estimators=100, max_depth=8, min_samples_leaf=2,
+            class_weight="balanced", random_state=42, n_jobs=-1
         )
-        rf.fit(X_tr, y_tr)
-        best_rf = rf.best_estimator_
+        best_rf.fit(X_tr, y_tr)
 
-        # Gradient Boosting
-        gb = RandomizedSearchCV(
-            GradientBoostingClassifier(random_state=42),
-            {"n_estimators": [200, 300], "max_depth": [3, 4],
-             "learning_rate": [0.05, 0.1], "subsample": [0.8, 1.0]},
-            n_iter=6, cv=3, scoring="f1", random_state=42, verbose=0
+        # Gradient Boosting — fixed hyperparameters for fast startup
+        best_gb = GradientBoostingClassifier(
+            n_estimators=100, max_depth=3, learning_rate=0.1,
+            subsample=0.8, random_state=42
         )
-        gb.fit(X_tr, y_tr)
-        best_gb = gb.best_estimator_
+        best_gb.fit(X_tr, y_tr)
 
         # Voting Ensemble
         voting = VotingClassifier(
@@ -435,14 +429,9 @@ class ModelLoader:
                          accident_intensity, ws, rwi, vsev,
                          is_junction, is_highway]])
 
-        if hasattr(self._model, "estimators_"):
-            # VotingClassifier stores fitted estimators as list of (name, estimator) or just estimators
-            first = self._model.estimators_[0]
-            if isinstance(first, tuple):
-                first = first[1]
-            n_feat = first.n_features_in_
-        else:
-            n_feat = self._model.n_features_in_
+        n_feat = (self._model.estimators_[0].n_features_in_
+                  if hasattr(self._model, "estimators_")
+                  else self._model.n_features_in_)
         row    = row[:, :n_feat]
         row_sc = self._scaler.transform(row)
 
@@ -496,18 +485,9 @@ class ModelLoader:
         return round(km / _SPEED_KMH[rt] * 60, 1)
 
     def _load_data(self) -> pd.DataFrame:
-        base = os.path.dirname(os.path.abspath(__file__))
-        # Check: same dir as model_loader.py (backend/data/accidents.csv)
-        candidate1 = os.path.join(base, "data", "accidents.csv")
-        # Check: one level up (project root data/accidents.csv)
-        candidate2 = os.path.join(base, "..", "data", "accidents.csv")
-        # Check: cwd/data/accidents.csv
-        candidate3 = os.path.join(os.getcwd(), "data", "accidents.csv")
-        for path in (candidate1, candidate2, candidate3):
-            if os.path.exists(path):
-                log.info(f"Loading accident data from: {path}")
-                return pd.read_csv(path)
-        log.warning("accidents.csv not found — using built-in stub data.")
+        csv_path = os.path.join(os.path.dirname(__file__), "..", "data", "accidents.csv")
+        if os.path.exists(csv_path):
+            return pd.read_csv(csv_path)
         return pd.read_csv(StringIO(_STUB_CSV))
 
     def _engineer_features(self, df_raw: pd.DataFrame):
