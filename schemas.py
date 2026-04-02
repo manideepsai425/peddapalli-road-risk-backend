@@ -1,32 +1,32 @@
 """
 schemas.py — Pydantic models for request/response validation.
 """
-from pydantic import BaseModel, Field
-from typing import List, Optional, Dict, Any
+from pydantic import BaseModel, ConfigDict, Field
+from typing import List, Optional
 
 
 class RouteRequest(BaseModel):
-    origin: str = Field(..., example="peddapalli")
-    destination: str = Field(..., example="ramagundam")
-    weather_condition: Optional[str] = Field(
-        default=None,
-        description="clear | rainy | foggy | cloudy. Omit to use live weather."
-    )
-    time_of_day: Optional[str] = Field(
-        default="now",
-        example="08:30",
-        description="HH:MM or 'now'. After 20:00 auto-sets foggy."
-    )
-
-    class Config:
-        json_schema_extra = {
+    model_config = ConfigDict(
+        json_schema_extra={
             "example": {
                 "origin": "peddapalli",
                 "destination": "ramagundam",
                 "weather_condition": None,
-                "time_of_day": "now"
+                "time_of_day": "now",
             }
         }
+    )
+
+    origin: str = Field(..., description="Origin location name")
+    destination: str = Field(..., description="Destination location name")
+    weather_condition: Optional[str] = Field(
+        default=None,
+        description="clear | rainy | foggy | cloudy. Omit to use live weather.",
+    )
+    time_of_day: Optional[str] = Field(
+        default="now",
+        description="HH:MM or 'now'. After 20:00 auto-sets foggy.",
+    )
 
 
 class SegmentRisk(BaseModel):

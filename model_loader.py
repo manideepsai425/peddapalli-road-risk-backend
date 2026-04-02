@@ -11,10 +11,10 @@ Usage:
     loader.get_current_weather(time_pref)
 """
 
+import logging
 import math as _math
 import os
 import warnings
-from collections import defaultdict
 from io import StringIO
 
 import numpy as np
@@ -24,10 +24,12 @@ import requests
 warnings.filterwarnings("ignore")
 
 from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier, VotingClassifier
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, roc_auc_score
+from sklearn.metrics import accuracy_score, f1_score, roc_auc_score
 from sklearn.model_selection import RandomizedSearchCV, train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from imblearn.over_sampling import SMOTE
+
+log = logging.getLogger(__name__)
 
 # ── Encoding dicts (same as Colab script) ────────────────────
 ROAD_RISK_MAP = {"highway": 3, "junction": 3, "rural road": 2, "urban road": 1}
@@ -332,8 +334,6 @@ class ModelLoader:
         return None
 
     def train(self):
-        import logging
-        log = logging.getLogger(__name__)
         log.info("🚀 Training ML model ...")
 
         df = self._load_data()
@@ -435,9 +435,14 @@ class ModelLoader:
                          accident_intensity, ws, rwi, vsev,
                          is_junction, is_highway]])
 
-        n_feat = (self._model.estimators_[0].n_features_in_
-                  if hasattr(self._model, "estimators_")
-                  else self._model.n_features_in_)
+        if hasattr(self._model, "estimators_"):
+            # VotingClassifier stores fitted estimators as list of (name, estimator) or just estimators
+            first = self._model.estimators_[0]
+            if isinstance(first, tuple):
+                first = first[1]
+            n_feat = first.n_features_in_
+        else:
+            n_feat = self._model.n_features_in_
         row    = row[:, :n_feat]
         row_sc = self._scaler.transform(row)
 
@@ -491,9 +496,18 @@ class ModelLoader:
         return round(km / _SPEED_KMH[rt] * 60, 1)
 
     def _load_data(self) -> pd.DataFrame:
-        csv_path = os.path.join(os.path.dirname(__file__), "..", "data", "accidents.csv")
-        if os.path.exists(csv_path):
-            return pd.read_csv(csv_path)
+        base = os.path.dirname(os.path.abspath(__file__))
+        # Check: same dir as model_loader.py (backend/data/accidents.csv)
+        candidate1 = os.path.join(base, "data", "accidents.csv")
+        # Check: one level up (project root data/accidents.csv)
+        candidate2 = os.path.join(base, "..", "data", "accidents.csv")
+        # Check: cwd/data/accidents.csv
+        candidate3 = os.path.join(os.getcwd(), "data", "accidents.csv")
+        for path in (candidate1, candidate2, candidate3):
+            if os.path.exists(path):
+                log.info(f"Loading accident data from: {path}")
+                return pd.read_csv(path)
+        log.warning("accidents.csv not found — using built-in stub data.")
         return pd.read_csv(StringIO(_STUB_CSV))
 
     def _engineer_features(self, df_raw: pd.DataFrame):

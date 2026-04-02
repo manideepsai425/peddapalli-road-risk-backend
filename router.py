@@ -10,7 +10,7 @@ Builds the risk-weighted road graph and computes 3 route variants:
 
 import heapq
 from collections import defaultdict
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 
 from model_loader import ModelLoader, ROAD_RISK_MAP, REAL_HOTSPOTS
 from schemas import (
@@ -138,8 +138,8 @@ class RoadRouter:
         routes[0].recommended = True
         best = routes[0]
 
-        worst_risk  = max(r.avg_risk_score for r in routes)
-        risk_cut    = round((1 - best.avg_risk_score / worst_risk) * 100) if worst_risk > 0 else 0
+        worst_risk = max(r.avg_risk_score for r in routes)
+        risk_cut   = round((1 - best.avg_risk_score / worst_risk) * 100) if worst_risk > 0 else 0
         recommendation = (
             f"Take the {best.label} — {risk_cut}% safer than the riskiest option. "
             f"{best.distance_km} km | {best.duration_min} min | {_risk_label(best.avg_risk_score)}"
@@ -253,12 +253,17 @@ class RoadRouter:
         return graph, seg_risks
 
     def _dijkstra(self, graph, source: str, target: str, weight: str = "risk"):
-        if source not in graph or target not in graph:
+        # Must check against known keys explicitly — defaultdict auto-creates
+        # keys on access, so 'x not in graph' would always be False
+        known_nodes = set(graph.keys())
+        if source not in known_nodes or target not in known_nodes:
             return [], []
 
         dist = defaultdict(lambda: float("inf"))
         dist[source] = 0
-        prev, seg_trail = {}, {}
+        # Store only the single incoming edge per node (O(n) memory, not O(n^2))
+        prev: Dict[str, str]   = {}
+        edge_data: Dict[str, tuple] = {}  # v -> (u, v, km, tm, rs)
         pq = [(0.0, source)]
 
         while pq:
@@ -278,9 +283,10 @@ class RoadRouter:
                 if nd < dist[v]:
                     dist[v] = nd
                     prev[v] = u
-                    seg_trail[v] = seg_trail.get(u, []) + [(u, v, km, tm, rs)]
+                    edge_data[v] = (u, v, km, tm, rs)
                     heapq.heappush(pq, (nd, v))
 
+        # Reconstruct path
         path, node = [], target
         while node in prev:
             path.append(node)
@@ -290,4 +296,13 @@ class RoadRouter:
 
         if len(path) < 2 or path[-1] != target:
             return [], []
-        return path, seg_trail.get(target, [])
+
+        # Reconstruct trail in O(n) by walking prev pointers
+        trail = []
+        node = target
+        while node in prev:
+            trail.append(edge_data[node])
+            node = prev[node]
+        trail.reverse()
+
+        return path, trail

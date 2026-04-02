@@ -10,6 +10,7 @@ Startup:
 
 import logging
 import os
+from contextlib import asynccontextmanager
 
 import uvicorn
 from fastapi import FastAPI, HTTPException
@@ -25,6 +26,21 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+model_loader = ModelLoader()
+road_router  = RoadRouter(model_loader)
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    logger.info("═" * 55)
+    logger.info("  Peddapalli Road Risk API — starting up")
+    logger.info("═" * 55)
+    model_loader.train()
+    logger.info(f"  Network: {len(model_loader.SEGMENT_DATA)} segments | {len(model_loader.EDGE_LIST)} edges")
+    logger.info("  API ready ✅")
+    yield
+
+
 app = FastAPI(
     title="Peddapalli Road Risk API",
     description=(
@@ -34,39 +50,31 @@ app = FastAPI(
     version="1.0.0",
     docs_url="/docs",
     redoc_url="/redoc",
+    lifespan=lifespan,
 )
 
-# ── CORS — allow Vite dev server + Vercel frontend ────────────
+# ── CORS ──────────────────────────────────────────────────────
 # Set ALLOWED_ORIGINS env var on Render to your Vercel URL, e.g.:
 # https://peddapalli-road-risk.vercel.app
 _raw_origins = os.environ.get("ALLOWED_ORIGINS", "")
 _extra = [o.strip() for o in _raw_origins.split(",") if o.strip()]
 
+_allow_origins = [
+    "http://localhost:5173",
+    "http://localhost:3000",
+    *_extra,
+]
+# allow_credentials=True is incompatible with allow_origins=["*"]
+# so use wildcard only when no specific origins are configured (dev mode)
+_use_wildcard = not _extra
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "http://localhost:3000",
-        *_extra,
-        "*",                   # remove this line once you set ALLOWED_ORIGINS
-    ],
-    allow_credentials=True,
+    allow_origins=["*"] if _use_wildcard else _allow_origins,
+    allow_credentials=False if _use_wildcard else True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-model_loader = ModelLoader()
-road_router  = RoadRouter(model_loader)
-
-
-@app.on_event("startup")
-async def startup_event():
-    logger.info("═" * 55)
-    logger.info("  Peddapalli Road Risk API — starting up")
-    logger.info("═" * 55)
-    model_loader.train()
-    logger.info(f"  Network: {len(model_loader.SEGMENT_DATA)} segments | {len(model_loader.EDGE_LIST)} edges")
-    logger.info("  API ready ✅")
 
 
 @app.get("/health", tags=["Utility"])
