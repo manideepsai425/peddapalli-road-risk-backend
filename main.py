@@ -75,7 +75,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
+@app.get("/", tags=["Utility"])
+def root_health():
+    return {"status": "ok"}
 
 @app.get("/health", tags=["Utility"])
 def health_check():
