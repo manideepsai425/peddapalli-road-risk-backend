@@ -207,51 +207,62 @@ class RoadRouter:
     # ── Private ──────────────────────────────────────────────
 
     def _build_network(self, W: str, IR: int, IF: int, IC: int):
-        loader = self.loader
-        ws_map = {"foggy": 4, "rainy": 3, "cloudy": 2, "clear": 1}
-        ws     = ws_map.get(W, 1)
+    loader = self.loader
+    ws_map = {"foggy": 4, "rainy": 3, "cloudy": 2, "clear": 1}
+    ws     = ws_map.get(W, 1)
 
-        seg_risk_base: Dict[str, float] = {}
-        seg_risks: Dict[str, dict]      = {}
+    # Real mandal base risk — Peddapalli district calibrated
+    MANDAL_BASE_RISK = {
+        "Ramagundam": 0.72, "Manthani":  0.68,
+        "Sultanabad": 0.65, "Palakurthy":0.62,
+        "Ramagiri":   0.58, "Peddapalli":0.55,
+        "Dharmaram":  0.50, "Anthergaon":0.45,
+        "Srirampur":  0.42, "Kamanpur":  0.40,
+        "Eligaid":    0.35, "Julapalli": 0.32,
+        "Odela":      0.28, "Mutharam":  0.25,
+    }
 
-        for seg, info in loader.SEGMENT_DATA.items():
-            h   = loader._hist_cnt_map.get(seg, 2)
-            m   = loader._mandal_sev.get(info["mandal"], 0.3)
-            rt  = info["road_type"]
-            rtr = ROAD_RISK_MAP.get(rt, 2)
+    seg_risk_base: Dict[str, float] = {}
+    seg_risks: Dict[str, dict]      = {}
 
-            score = loader.predict_risk(
-                road_type=rt, weather_cond=W, road_type_risk=rtr,
-                hist_count=h, mandal_rl=m,
-                is_rainy=IR, is_foggy=IF, is_cloudy=IC,
-                weather_severity=ws,
-                is_junction=int(rt == "junction"),
-                is_highway=int(rt == "highway"),
-                segment_name=seg,
-            )
-            seg_risk_base[seg] = score
-            seg_risks[seg] = {
-                "risk_score": score,
-                "risk_label": _risk_label(score),
-                "risk_color": _risk_color(score),
-                "road_type":  rt,
-                "mandal":     info["mandal"],
-                "lat":        info["lat"],
-                "lon":        info["lon"],
-                "factors":    _get_factors(rt, W, seg, h),
-                "weather":    W,
-                "hist_count": h,
-                "is_hotspot": seg in REAL_HOTSPOTS,
-            }
+    for seg, info in loader.SEGMENT_DATA.items():
+        h  = loader._hist_cnt_map.get(seg, 0)   # 0 = no recorded incidents
+        m  = (loader._mandal_sev.get(info["mandal"])
+              or MANDAL_BASE_RISK.get(info["mandal"], 0.35))
+        rt = info["road_type"]
+        rtr = ROAD_RISK_MAP.get(rt, 2)
 
-        graph: Dict[str, list] = defaultdict(list)
-        for (u, v, km, tm, _rt) in loader.EDGE_LIST:
-            avg_risk = (seg_risk_base.get(u, 0.4) + seg_risk_base.get(v, 0.4)) / 2
-            graph[u].append((v, km, tm, avg_risk))
-            graph[v].append((u, km, tm, avg_risk))
+        score = loader.predict_risk(
+            road_type=rt, weather_cond=W, road_type_risk=rtr,
+            hist_count=h, mandal_rl=m,
+            is_rainy=IR, is_foggy=IF, is_cloudy=IC,
+            weather_severity=ws,
+            is_junction=int(rt == "junction"),
+            is_highway=int(rt == "highway"),
+            segment_name=seg,
+        )
+        seg_risk_base[seg] = score
+        seg_risks[seg] = {
+            "risk_score":  score,
+            "risk_label":  _risk_label(score),
+            "risk_color":  _risk_color(score),
+            "road_type":   rt,
+            "mandal":      info["mandal"],
+            "lat":         info["lat"],
+            "lon":         info["lon"],
+            "factors":     _get_factors(rt, W, seg, h),
+            "weather":     W,
+            "hist_count":  h,
+            "is_hotspot":  seg in REAL_HOTSPOTS,
+        }
 
-        return graph, seg_risks
+    graph: Dict[str, list] = defaultdict(list)
+    for (u, v, km, tm, _rt) in loader.EDGE_LIST:
+        avg_risk = (seg_risk_base.get(u, 0.4) + seg_risk_base.get(v, 0.4)) / 2
+        graph[u].append((v, km, tm, avg_risk))
+        graph[v].append((u, km, tm, avg_risk))
 
+    return graph, seg_risks
     def _dijkstra(self, graph, source: str, target: str, weight: str = "risk"):
         # Must check against known keys explicitly — defaultdict auto-creates
         # keys on access, so 'x not in graph' would always be False
